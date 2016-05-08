@@ -26,19 +26,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19172,
+		"ips": 19006,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9372,
+		"ips": 9369,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14973,
+		"ips": 14828,
 		"common": 1
 	},
 	{
@@ -308,7 +308,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 94119,
+		"ips": 94104,
 		"common": 1
 	},
 	{
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 118809,
+		"ips": 118645,
 		"common": 2
 	},
 	{
@@ -332,7 +332,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9567377,
+		"ips": 9567375,
 		"common": 4
 	},
 	{
@@ -489,6 +489,12 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45568136,
+		"common": 1
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 604,
 		"common": 1
 	},
 	{
