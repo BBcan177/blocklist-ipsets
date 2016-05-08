@@ -33,7 +33,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 55476,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "botscout_30d",
@@ -105,7 +105,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 23289339,
-		"common": 137
+		"common": 135
 	},
 	{
 		"name": "et_spamhaus",
@@ -128,32 +128,32 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668992428,
-		"common": 139
+		"ips": 668992939,
+		"common": 137
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 116072,
+		"ips": 116074,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 2041556,
-		"common": 139
+		"common": 137
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568127,
+		"ips": 9568155,
 		"common": 10
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45774860,
-		"common": 24
+		"common": 22
 	},
 	{
 		"name": "gofferje_sip",
@@ -171,7 +171,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 17809,
-		"common": 11
+		"common": 10
 	},
 	{
 		"name": "hphosts_fsa",
@@ -183,7 +183,13 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 10293,
-		"common": 4
+		"common": 3
+	},
+	{
+		"name": "hphosts_wrz",
+		"category": "reputation",
+		"ips": 882,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_abuse_zeus",
@@ -195,7 +201,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "iblocklist_edu",
@@ -225,7 +231,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139039391,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -243,7 +249,7 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 46
+		"common": 45
 	},
 	{
 		"name": "jigsaw_malware",
@@ -279,7 +285,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 40546,
-		"common": 123
+		"common": 122
 	},
 	{
 		"name": "sorbs_dul",
@@ -369,12 +375,12 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 40987,
-		"common": 123
+		"common": 122
 	},
 	{
 		"name": "zeus",
 		"category": "malware",
 		"ips": 165,
-		"common": 139
+		"common": 137
 	}
 ]
