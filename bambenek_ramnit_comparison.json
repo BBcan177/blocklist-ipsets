@@ -1,9 +1,15 @@
 [
 	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 9706,
+		"common": 1
+	},
+	{
 		"name": "bambenek_c2",
 		"category": "malware",
 		"ips": 205,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "bambenek_dircrypt",
@@ -12,9 +18,21 @@
 		"common": 1
 	},
 	{
+		"name": "bambenek_simda",
+		"category": "malware",
+		"ips": 122,
+		"common": 1
+	},
+	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
 		"ips": 45,
+		"common": 1
+	},
+	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 17884,
 		"common": 1
 	},
 	{
@@ -45,7 +63,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 55476,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "blueliv_crimeserver_recent",
@@ -69,13 +87,13 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 668992174,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45774860,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "hphosts_ats",
@@ -87,7 +105,7 @@
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 17809,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "hphosts_exp",
@@ -99,7 +117,7 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 8383,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "hphosts_mmt",
@@ -117,7 +135,7 @@
 		"name": "hphosts_psh",
 		"category": "reputation",
 		"ips": 10293,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "hphosts_wrz",
@@ -129,7 +147,7 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -141,13 +159,13 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45568136,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "threatcrowd",

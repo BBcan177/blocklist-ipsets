@@ -72,21 +72,33 @@
 		"common": 2
 	},
 	{
+		"name": "et_block",
+		"category": "attacks",
+		"ips": 23289339,
+		"common": 1
+	},
+	{
+		"name": "et_spamhaus",
+		"category": "attacks",
+		"ips": 23283456,
+		"common": 1
+	},
+	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 668992174,
-		"common": 14
+		"common": 15
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 2055724,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568475,
+		"ips": 9568470,
 		"common": 2
 	},
 	{
@@ -159,7 +171,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_edu",
@@ -186,6 +198,12 @@
 		"common": 2
 	},
 	{
+		"name": "iblocklist_spamhaus_drop",
+		"category": "attacks",
+		"ips": 23046144,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
 		"ips": 12445,
@@ -195,13 +213,13 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "pushing_inertia_blocklist",
@@ -213,6 +231,18 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 40328,
+		"common": 1
+	},
+	{
+		"name": "spamhaus_drop",
+		"category": "reputation",
+		"ips": 23106560,
+		"common": 1
+	},
+	{
+		"name": "sslbl_aggressive",
+		"category": "malware",
+		"ips": 1849,
 		"common": 1
 	},
 	{
