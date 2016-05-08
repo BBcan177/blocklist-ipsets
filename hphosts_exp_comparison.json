@@ -116,7 +116,7 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 5996,
+		"ips": 6022,
 		"common": 23
 	},
 	{
@@ -188,8 +188,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668992686,
-		"common": 17
+		"ips": 668992685,
+		"common": 18
 	},
 	{
 		"name": "firehol_level3",
@@ -200,7 +200,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568564,
+		"ips": 9568590,
 		"common": 43
 	},
 	{
@@ -484,5 +484,11 @@
 		"category": "malware",
 		"ips": 165,
 		"common": 3
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 137,
+		"common": 1
 	}
 ]
