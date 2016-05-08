@@ -92,8 +92,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1461,
-		"common": 29
+		"ips": 1464,
+		"common": 30
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -242,8 +242,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12166,
-		"common": 322
+		"ips": 12169,
+		"common": 323
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -296,14 +296,14 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 60,
-		"common": 1
+		"ips": 61,
+		"common": 2
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1458,
-		"common": 71
+		"ips": 1454,
+		"common": 72
 	},
 	{
 		"name": "botscout_30d",
@@ -314,7 +314,7 @@
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6011,
+		"ips": 6013,
 		"common": 236
 	},
 	{
@@ -356,7 +356,7 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 3764,
+		"ips": 3763,
 		"common": 33
 	},
 	{
@@ -446,7 +446,7 @@
 	{
 		"name": "cruzit_web_attacks",
 		"category": "attacks",
-		"ips": 5664,
+		"ips": 5668,
 		"common": 172
 	},
 	{
@@ -614,7 +614,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 44016,
+		"ips": 44017,
 		"common": 2363
 	},
 	{
@@ -650,8 +650,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568473,
-		"common": 2168
+		"ips": 9568479,
+		"common": 2169
 	},
 	{
 		"name": "firehol_proxies",
@@ -1542,10 +1542,16 @@
 		"common": 2
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 63,
+		"common": 1
+	},
+	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
 		"ips": 131,
-		"common": 4
+		"common": 5
 	},
 	{
 		"name": "xroxy_30d",
