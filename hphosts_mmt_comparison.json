@@ -248,19 +248,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668992685,
-		"common": 30
+		"ips": 668992689,
+		"common": 31
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 114324,
+		"ips": 114323,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2045212,
+		"ips": 2045442,
 		"common": 15
 	},
 	{
@@ -530,7 +530,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 605,
+		"ips": 604,
 		"common": 3
 	},
 	{
@@ -614,7 +614,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 40694,
+		"ips": 40925,
 		"common": 12
 	},
 	{
@@ -640,5 +640,11 @@
 		"category": "malware",
 		"ips": 165,
 		"common": 3
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 141,
+		"common": 1
 	}
 ]
