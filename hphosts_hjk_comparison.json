@@ -60,6 +60,12 @@
 		"common": 1
 	},
 	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 5996,
+		"common": 2
+	},
+	{
 		"name": "cta_cryptowall",
 		"category": "malware",
 		"ips": 1360,
@@ -68,13 +74,13 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 301894,
+		"ips": 301942,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668992433,
+		"ips": 668992432,
 		"common": 1
 	},
 	{
@@ -82,6 +88,12 @@
 		"category": "attacks",
 		"ips": 2046200,
 		"common": 1
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9568653,
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",

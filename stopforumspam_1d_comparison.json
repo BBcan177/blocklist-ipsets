@@ -68,25 +68,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5750,
+		"ips": 5743,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7378,
+		"ips": 7365,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29479,
+		"ips": 29478,
 		"common": 3
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12877,
+		"ips": 12878,
 		"common": 2
 	},
 	{
@@ -122,7 +122,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12259,
+		"ips": 12243,
 		"common": 266
 	},
 	{
@@ -208,6 +208,12 @@
 		"category": "unroutable",
 		"ips": 604863048,
 		"common": 2
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 5996,
+		"common": 1
 	},
 	{
 		"name": "cleantalk",
@@ -308,7 +314,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6922,
+		"ips": 6938,
 		"common": 175
 	},
 	{
@@ -326,7 +332,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 301894,
+		"ips": 301942,
 		"common": 178
 	},
 	{
@@ -410,13 +416,13 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 93986,
+		"ips": 94058,
 		"common": 849
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668992433,
+		"ips": 668992432,
 		"common": 119
 	},
 	{
@@ -434,8 +440,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9564495,
-		"common": 1614
+		"ips": 9568653,
+		"common": 1615
 	},
 	{
 		"name": "firehol_proxies",
@@ -1250,7 +1256,7 @@
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 139,
+		"ips": 138,
 		"common": 1
 	}
 ]

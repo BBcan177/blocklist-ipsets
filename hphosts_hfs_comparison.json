@@ -32,7 +32,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12259,
+		"ips": 12243,
 		"common": 1
 	},
 	{
@@ -84,6 +84,12 @@
 		"common": 4
 	},
 	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 5996,
+		"common": 4
+	},
+	{
 		"name": "cta_cryptowall",
 		"category": "malware",
 		"ips": 1360,
@@ -128,7 +134,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668992433,
+		"ips": 668992432,
 		"common": 4
 	},
 	{
@@ -140,8 +146,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9564495,
-		"common": 5
+		"ips": 9568653,
+		"common": 8
 	},
 	{
 		"name": "firehol_webserver",
