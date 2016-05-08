@@ -38,13 +38,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29478,
+		"ips": 29485,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12836,
+		"ips": 12844,
 		"common": 1
 	},
 	{
@@ -92,7 +92,7 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6897,
+		"ips": 6917,
 		"common": 1
 	},
 	{
@@ -176,7 +176,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 301909,
+		"ips": 301908,
 		"common": 11
 	},
 	{
@@ -380,25 +380,25 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 94158,
+		"ips": 94110,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668927150,
-		"common": 228
+		"ips": 668927152,
+		"common": 230
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 121362,
+		"ips": 121363,
 		"common": 4
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2061604,
+		"ips": 2061835,
 		"common": 253
 	},
 	{
@@ -626,7 +626,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 31988,
+		"ips": 31720,
 		"common": 2
 	},
 	{
@@ -642,16 +642,22 @@
 		"common": 3
 	},
 	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 604,
+		"common": 3
+	},
+	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 5277,
-		"common": 224
+		"ips": 5279,
+		"common": 226
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
 		"category": "malware",
-		"ips": 5165,
-		"common": 224
+		"ips": 5167,
+		"common": 226
 	},
 	{
 		"name": "sorbs_anonymizers",
