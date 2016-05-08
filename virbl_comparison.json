@@ -3,13 +3,13 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 19282,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 14951,
-		"common": 5
+		"common": 4
 	},
 	{
 		"name": "dshield_30d",
@@ -20,20 +20,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 121221,
-		"common": 26
+		"ips": 121223,
+		"common": 27
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2061328,
+		"ips": 2061638,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45774860,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -46,6 +46,12 @@
 		"category": "organizations",
 		"ips": 6138112,
 		"common": 1
+	},
+	{
+		"name": "iblocklist_level2",
+		"category": "reputation",
+		"ips": 346613099,
+		"common": 2
 	},
 	{
 		"name": "iblocklist_level3",
@@ -68,14 +74,20 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32705,
+		"ips": 32858,
 		"common": 1
 	},
 	{
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45568136,
-		"common": 2
+		"common": 1
+	},
+	{
+		"name": "sorbs_dul",
+		"category": "spam",
+		"ips": 373486417,
+		"common": 1
 	},
 	{
 		"name": "sorbs_recent_spam",
