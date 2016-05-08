@@ -21,7 +21,7 @@
 		"name": "bitcoin_blockchain_info",
 		"category": "organizations",
 		"ips": 258,
-		"common": 257
+		"common": 256
 	},
 	{
 		"name": "bitcoin_blockchain_info_1d",
@@ -33,31 +33,31 @@
 		"name": "bitcoin_blockchain_info_30d",
 		"category": "organizations",
 		"ips": 1906,
-		"common": 1468
+		"common": 1469
 	},
 	{
 		"name": "bitcoin_blockchain_info_7d",
 		"category": "organizations",
 		"ips": 510,
-		"common": 466
+		"common": 465
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7341,
-		"common": 5764
+		"ips": 7337,
+		"common": 5772
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29488,
-		"common": 5764
+		"ips": 29492,
+		"common": 5772
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
 		"ips": 12874,
-		"common": 5764
+		"common": 5772
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -80,8 +80,8 @@
 	{
 		"name": "bm_tor",
 		"category": "anonymizers",
-		"ips": 6914,
-		"common": 124
+		"ips": 6911,
+		"common": 125
 	},
 	{
 		"name": "bogons",
@@ -182,8 +182,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6905,
-		"common": 125
+		"ips": 6910,
+		"common": 124
 	},
 	{
 		"name": "dragon_http",
@@ -278,19 +278,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 94116,
+		"ips": 94084,
 		"common": 128
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668992176,
+		"ips": 668992688,
 		"common": 10
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 120870,
+		"ips": 120946,
 		"common": 9
 	},
 	{
@@ -302,7 +302,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568485,
+		"ips": 9565497,
 		"common": 16
 	},
 	{
@@ -363,7 +363,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 275
+		"common": 277
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -387,7 +387,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983904,
-		"common": 59
+		"common": 60
 	},
 	{
 		"name": "iblocklist_fornonlancomputers",
@@ -429,25 +429,25 @@
 		"name": "iblocklist_isp_charter",
 		"category": "organizations",
 		"ips": 6138112,
-		"common": 47
+		"common": 48
 	},
 	{
 		"name": "iblocklist_isp_comcast",
 		"category": "organizations",
 		"ips": 45121536,
-		"common": 250
+		"common": 257
 	},
 	{
 		"name": "iblocklist_isp_embarq",
 		"category": "organizations",
 		"ips": 2703360,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_isp_qwest",
 		"category": "organizations",
 		"ips": 15777552,
-		"common": 40
+		"common": 38
 	},
 	{
 		"name": "iblocklist_isp_sprint",
@@ -465,13 +465,13 @@
 		"name": "iblocklist_isp_twc",
 		"category": "organizations",
 		"ips": 15015936,
-		"common": 46
+		"common": 47
 	},
 	{
 		"name": "iblocklist_isp_verizon",
 		"category": "organizations",
 		"ips": 18087936,
-		"common": 79
+		"common": 80
 	},
 	{
 		"name": "iblocklist_level1",
@@ -483,13 +483,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 279
+		"common": 277
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139039391,
-		"common": 612
+		"common": 611
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -531,7 +531,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 68
+		"common": 69
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -729,13 +729,13 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373486417,
-		"common": 954
+		"common": 960
 	},
 	{
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 20919398,
-		"common": 77
+		"common": 76
 	},
 	{
 		"name": "sorbs_recent_spam",
@@ -747,7 +747,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 5863253,
-		"common": 12
+		"common": 11
 	},
 	{
 		"name": "sorbs_zombie",
@@ -759,7 +759,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136183037,
-		"common": 99
+		"common": 98
 	},
 	{
 		"name": "sp_atma",
