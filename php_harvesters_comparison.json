@@ -224,13 +224,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 44931,
+		"ips": 44988,
 		"common": 50
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 377667,
+		"ips": 377686,
 		"common": 50
 	},
 	{
@@ -254,7 +254,7 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2067676,
+		"ips": 2065628,
 		"common": 24
 	},
 	{
@@ -462,15 +462,27 @@
 		"common": 9
 	},
 	{
+		"name": "php_dictionary",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 97,
+		"common": 1
+	},
+	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1216,
+		"ips": 1249,
 		"common": 1
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 322,
+		"ips": 365,
 		"common": 1
 	},
 	{
@@ -674,7 +686,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4291,
+		"ips": 4308,
 		"common": 13
 	},
 	{
