@@ -18,12 +18,6 @@
 		"common": 2
 	},
 	{
-		"name": "cleanmx_viruses",
-		"category": "spam",
-		"ips": 6003,
-		"common": 1
-	},
-	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 232100,
@@ -32,7 +26,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 301922,
+		"ips": 301921,
 		"common": 1
 	},
 	{
@@ -194,14 +188,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2064206,
+		"ips": 2064724,
 		"common": 76
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568537,
-		"common": 2
+		"ips": 9562791,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_ads",
@@ -280,6 +274,12 @@
 		"category": "malware",
 		"ips": 1425,
 		"common": 1
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 603,
+		"common": 3
 	},
 	{
 		"name": "ransomware_rw",

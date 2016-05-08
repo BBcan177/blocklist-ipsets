@@ -14,25 +14,25 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 21095,
+		"ips": 21114,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9403,
+		"ips": 9405,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de_bruteforce",
 		"category": "attacks",
-		"ips": 252,
+		"ips": 253,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 16836,
+		"ips": 16844,
 		"common": 1
 	},
 	{
@@ -58,12 +58,6 @@
 		"category": "unroutable",
 		"ips": 604863048,
 		"common": 3
-	},
-	{
-		"name": "cleanmx_viruses",
-		"category": "spam",
-		"ips": 6003,
-		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
@@ -92,7 +86,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 301922,
+		"ips": 301921,
 		"common": 7
 	},
 	{
@@ -272,20 +266,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 120994,
+		"ips": 121009,
 		"common": 3
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2064206,
+		"ips": 2064724,
 		"common": 176
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568537,
-		"common": 4
+		"ips": 9562791,
+		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
@@ -434,7 +428,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30354,
+		"ips": 30285,
 		"common": 1
 	},
 	{
@@ -448,6 +442,12 @@
 		"category": "reputation",
 		"ips": 45568136,
 		"common": 2
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 603,
+		"common": 1
 	},
 	{
 		"name": "ransomware_rw",
