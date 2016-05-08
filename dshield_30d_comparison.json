@@ -302,7 +302,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11937,
+		"ips": 11930,
 		"common": 279
 	},
 	{
@@ -441,7 +441,7 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 200934,
-		"common": 1675
+		"common": 1674
 	},
 	{
 		"name": "cleantalk_7d",
@@ -495,7 +495,7 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 214915,
-		"common": 1848
+		"common": 1847
 	},
 	{
 		"name": "cleantalk_updated_7d",
@@ -608,20 +608,20 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 99072,
-		"common": 99072
+		"ips": 98304,
+		"common": 98304
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 455680,
-		"common": 455680
+		"ips": 455424,
+		"common": 455424
 	},
 	{
 		"name": "dshield_top_1000",
 		"category": "attacks",
 		"ips": 871,
-		"common": 448
+		"common": 449
 	},
 	{
 		"name": "dyndns_ponmocup",
@@ -801,7 +801,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 377660,
-		"common": 2895
+		"common": 2894
 	},
 	{
 		"name": "firehol_anonymous",
@@ -812,8 +812,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668927402,
-		"common": 10783
+		"ips": 668927401,
+		"common": 10782
 	},
 	{
 		"name": "firehol_level2",
@@ -825,13 +825,13 @@
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 2067676,
-		"common": 1976576
+		"common": 1973505
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568257,
-		"common": 3315
+		"ips": 9568252,
+		"common": 3316
 	},
 	{
 		"name": "firehol_proxies",
@@ -951,7 +951,7 @@
 		"name": "iblocklist_badpeers",
 		"category": "reputation",
 		"ips": 1568848,
-		"common": 89
+		"common": 88
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -1041,7 +1041,7 @@
 		"name": "iblocklist_isp_qwest",
 		"category": "organizations",
 		"ips": 15777552,
-		"common": 3328
+		"common": 3584
 	},
 	{
 		"name": "iblocklist_isp_sprint",
@@ -1059,7 +1059,7 @@
 		"name": "iblocklist_isp_twc",
 		"category": "organizations",
 		"ips": 15015936,
-		"common": 4864
+		"common": 5120
 	},
 	{
 		"name": "iblocklist_isp_verizon",
@@ -1071,19 +1071,19 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 37460
+		"common": 37716
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 74522
+		"common": 74266
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139039391,
-		"common": 145776
+		"common": 145520
 	},
 	{
 		"name": "iblocklist_malc0de",
@@ -1209,13 +1209,13 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 2677
+		"common": 2675
 	},
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1544791,
-		"common": 9538
+		"common": 9509
 	},
 	{
 		"name": "malc0de",
@@ -1317,7 +1317,7 @@
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 116730,
-		"common": 4162
+		"common": 4161
 	},
 	{
 		"name": "packetmail",
@@ -1629,7 +1629,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 40328,
-		"common": 244
+		"common": 243
 	},
 	{
 		"name": "socks_proxy_1d",
@@ -1659,7 +1659,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373486417,
-		"common": 214611
+		"common": 213843
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1671,13 +1671,13 @@
 		"name": "sorbs_noserver",
 		"category": "spam",
 		"ips": 20919398,
-		"common": 30720
+		"common": 30464
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 952148,
-		"common": 7160
+		"common": 7143
 	},
 	{
 		"name": "sorbs_smtp",
@@ -1689,7 +1689,7 @@
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 5863220,
-		"common": 19183
+		"common": 19147
 	},
 	{
 		"name": "sorbs_zombie",
@@ -1701,7 +1701,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136183037,
-		"common": 329373
+		"common": 329117
 	},
 	{
 		"name": "sp_atma",
@@ -1821,7 +1821,7 @@
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
 		"ips": 40061,
-		"common": 244
+		"common": 243
 	},
 	{
 		"name": "threatcrowd",
