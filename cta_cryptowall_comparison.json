@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11554,
+		"ips": 11507,
 		"common": 36
 	},
 	{
@@ -134,7 +134,7 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 6122,
+		"ips": 6099,
 		"common": 71
 	},
 	{
@@ -279,7 +279,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 668992433,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "firehol_level2",
@@ -296,7 +296,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568134,
+		"ips": 9568079,
 		"common": 123
 	},
 	{
@@ -518,7 +518,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30953,
+		"ips": 30853,
 		"common": 5
 	},
 	{
@@ -548,7 +548,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 605,
+		"ips": 604,
 		"common": 12
 	},
 	{
@@ -687,6 +687,12 @@
 		"name": "zeus",
 		"category": "malware",
 		"ips": 165,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 139,
 		"common": 1
 	}
 ]
