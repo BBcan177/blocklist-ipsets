@@ -50,7 +50,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1461,
+		"ips": 1460,
 		"common": 136
 	},
 	{
@@ -170,7 +170,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12238,
+		"ips": 12170,
 		"common": 77
 	},
 	{
@@ -228,21 +228,27 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 47,
+		"common": 2
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
-		"ips": 1423,
-		"common": 36
+		"ips": 1426,
+		"common": 35
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18777,
-		"common": 433
+		"ips": 18773,
+		"common": 431
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6030,
+		"ips": 6027,
 		"common": 156
 	},
 	{
@@ -272,7 +278,7 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 3594,
+		"ips": 3603,
 		"common": 4
 	},
 	{
@@ -638,7 +644,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 42629,
+		"ips": 42631,
 		"common": 891
 	},
 	{
@@ -674,8 +680,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568636,
-		"common": 1160
+		"ips": 9568564,
+		"common": 1158
 	},
 	{
 		"name": "firehol_proxies",
@@ -687,7 +693,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45774860,
-		"common": 9119
+		"common": 9121
 	},
 	{
 		"name": "fullbogons",
@@ -699,7 +705,7 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1094907,
-		"common": 1076
+		"common": 1077
 	},
 	{
 		"name": "gpf_comics",
@@ -927,13 +933,13 @@
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 5882
+		"common": 5884
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139039391,
-		"common": 7391
+		"common": 7392
 	},
 	{
 		"name": "iblocklist_onion_router",
@@ -1359,12 +1365,12 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45568136,
-		"common": 9020
+		"common": 9022
 	},
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 604,
+		"ips": 605,
 		"common": 2
 	},
 	{
@@ -1712,7 +1718,7 @@
 	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 132,
+		"ips": 134,
 		"common": 42
 	},
 	{
