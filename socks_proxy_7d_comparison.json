@@ -86,20 +86,20 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 21469,
-		"common": 808
+		"ips": 21373,
+		"common": 807
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1905,
+		"ips": 1894,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 17170,
-		"common": 791
+		"ips": 17090,
+		"common": 790
 	},
 	{
 		"name": "blocklist_net_ua",
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 94031,
+		"ips": 94037,
 		"common": 3568
 	},
 	{
@@ -302,8 +302,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 120054,
-		"common": 813
+		"ips": 119958,
+		"common": 812
 	},
 	{
 		"name": "firehol_level3",
@@ -320,7 +320,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 36937,
+		"ips": 36940,
 		"common": 3568
 	},
 	{
@@ -519,7 +519,7 @@
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1544791,
-		"common": 1400
+		"common": 1399
 	},
 	{
 		"name": "maxmind_proxy_fraud",
@@ -812,13 +812,13 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1341,
-		"common": 1341
+		"ips": 1342,
+		"common": 1342
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 12549,
+		"ips": 12543,
 		"common": 3640
 	},
 	{
@@ -849,13 +849,13 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 951566,
-		"common": 1522
+		"common": 1521
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
 		"ips": 5863232,
-		"common": 942
+		"common": 941
 	},
 	{
 		"name": "sp_anti_infringement",
@@ -876,10 +876,16 @@
 		"common": 2
 	},
 	{
+		"name": "sslproxies",
+		"category": "anonymizers",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 481,
-		"common": 1
+		"ips": 467,
+		"common": 2
 	},
 	{
 		"name": "sslproxies_30d",
@@ -890,7 +896,7 @@
 	{
 		"name": "sslproxies_7d",
 		"category": "anonymizers",
-		"ips": 3350,
+		"ips": 3348,
 		"common": 9
 	},
 	{
