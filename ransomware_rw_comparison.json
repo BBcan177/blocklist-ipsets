@@ -68,7 +68,7 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 5983,
+		"ips": 5979,
 		"common": 1
 	},
 	{
@@ -110,7 +110,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6892,
+		"ips": 6912,
 		"common": 1
 	},
 	{
@@ -132,21 +132,27 @@
 		"common": 3
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 99072,
+		"ips": 100352,
 		"common": 1
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1969408,
+		"ips": 1969920,
 		"common": 18
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 456704,
+		"ips": 455680,
 		"common": 2
 	},
 	{
@@ -320,31 +326,31 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 94088,
+		"ips": 94159,
 		"common": 1
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668927411,
+		"ips": 668927154,
 		"common": 5281
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 120459,
+		"ips": 121517,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2064414,
+		"ips": 2062878,
 		"common": 118
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568480,
+		"ips": 9568476,
 		"common": 15
 	},
 	{
@@ -525,7 +531,7 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 604,
-		"common": 126
+		"common": 121
 	},
 	{
 		"name": "ransomware_locky_c2",

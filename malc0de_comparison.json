@@ -62,7 +62,7 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 5983,
+		"ips": 5979,
 		"common": 27
 	},
 	{
@@ -78,39 +78,51 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 99072,
+		"ips": 100352,
 		"common": 1
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1969408,
+		"ips": 1969920,
 		"common": 4
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 456704,
+		"ips": 455680,
 		"common": 2
+	},
+	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 668927154,
+		"common": 1
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 120459,
+		"ips": 121517,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2064414,
+		"ips": 2062878,
 		"common": 122
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568480,
+		"ips": 9568476,
 		"common": 30
 	},
 	{
@@ -231,7 +243,7 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 604,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "snort_ipfilter",
