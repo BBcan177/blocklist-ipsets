@@ -2,7 +2,7 @@
 	{
 		"name": "alienvault_reputation",
 		"category": "reputation",
-		"ips": 9665,
+		"ips": 9706,
 		"common": 1
 	},
 	{
@@ -26,7 +26,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12246,
+		"ips": 12254,
 		"common": 5
 	},
 	{
@@ -72,6 +72,12 @@
 		"common": 2
 	},
 	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 4570,
+		"common": 25
+	},
+	{
 		"name": "cruzit_web_attacks",
 		"category": "attacks",
 		"ips": 5664,
@@ -110,8 +116,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9562882,
-		"common": 14
+		"ips": 9567168,
+		"common": 35
 	},
 	{
 		"name": "firehol_webserver",
