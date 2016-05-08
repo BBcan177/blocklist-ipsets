@@ -1,5 +1,5 @@
 
-The following list was automatically generated on Sat May  7 12:21:27 UTC 2016.
+The following list was automatically generated on Sun May  8 12:21:19 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -305,7 +305,6 @@ name|info|type|entries|update|
 [id_country_st](http://iplists.firehol.org/?ipset=id_country_st)|São Tomé and Príncipe (ST) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|2 subnets, 9216 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_st](http://iplists.firehol.org/?ipset=id_country_st)|São Tomé and Príncipe (ST) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|2 subnets, 9216 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_sv](http://iplists.firehol.org/?ipset=id_country_sv)|El Salvador (SV) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|51 subnets, 651520 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
-[id_country_sx](http://iplists.firehol.org/?ipset=id_country_sx)|Sint Maarten (SX) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|7 subnets, 24064 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_sx](http://iplists.firehol.org/?ipset=id_country_sx)|Sint Maarten (SX) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|7 subnets, 24064 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_sy](http://iplists.firehol.org/?ipset=id_country_sy)|Syria (SY) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|63 subnets, 866304 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
 [id_country_sz](http://iplists.firehol.org/?ipset=id_country_sz)|Swaziland (SZ) -- [IPDeny.com](http://www.ipdeny.com/)|ipv4 hash:net|12 subnets, 44288 unique IPs|updated every 1 day  from [this link](http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz)
