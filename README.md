@@ -220,7 +220,7 @@ This script will update each ipset and call firehol to update the ipset while th
 
 # List of ipsets included
 
-The following list was automatically generated on Sun May  8 17:55:02 UTC 2016.
+The following list was automatically generated on Sun May  8 17:56:43 UTC 2016.
 
 The update frequency is the maximum allowed by internal configuration. A list will never be downloaded sooner than the update frequency stated. A list may also not be downloaded, after this frequency expired, if it has not been modified on the server (as reported by HTTP `IF_MODIFIED_SINCE` method).
 
@@ -483,7 +483,7 @@ bambenek_p2pgoz|[Bambenek Consulting](http://osint.bambenekconsulting.com/feeds/
 [dragon_sshpauth](http://iplists.firehol.org/?ipset=dragon_sshpauth)|[Dragon Research Group](http://www.dragonresearchgroup.org/) IP address that has been seen attempting to remotely login to a host using SSH password authentication, in the last 7 days. This report lists hosts that are highly suspicious and are likely conducting malicious SSH password authentication attacks.|ipv4 hash:net|484 subnets, 497 unique IPs|updated every 1 hour  from [this link](https://www.dragonresearchgroup.org/insight/sshpwauth.txt)
 [dragon_vncprobe](http://iplists.firehol.org/?ipset=dragon_vncprobe)|[Dragon Research Group](http://www.dragonresearchgroup.org/) IP address that has been seen attempting to remotely connect to a host running the VNC application service, in the last 7 days. This report lists hosts that are highly suspicious and are likely conducting malicious VNC probes or VNC brute force attacks.|ipv4 hash:net|112 subnets, 112 unique IPs|updated every 1 hour  from [this link](https://www.dragonresearchgroup.org/insight/vncprobe.txt)
 [dronebl_anonymizers](http://iplists.firehol.org/?ipset=dronebl_anonymizers)|[DroneBL.org](https://dronebl.org) List of open proxies. It includes IPs which DroneBL categorizes as SOCKS proxies (8), HTTP proxies (9), web page proxies (11), WinGate proxies (14), proxy chains (10).|ipv4 hash:net|222687 subnets, 232102 unique IPs|
-[dronebl_auto_botnets](http://iplists.firehol.org/?ipset=dronebl_auto_botnets)|[DroneBL.org](https://dronebl.org) IPs of automatically detected botnets. It includes IPs for which DroneBL responds with 17.|ipv4 hash:net|292397 subnets, 301942 unique IPs|
+[dronebl_auto_botnets](http://iplists.firehol.org/?ipset=dronebl_auto_botnets)|[DroneBL.org](https://dronebl.org) IPs of automatically detected botnets. It includes IPs for which DroneBL responds with 17.|ipv4 hash:net|292398 subnets, 301943 unique IPs|
 [dronebl_autorooting_worms](http://iplists.firehol.org/?ipset=dronebl_autorooting_worms)|[DroneBL.org](https://dronebl.org) IPs of autorooting worms. It includes IPs for which DroneBL responds with 16. These are usually SSH bruteforce attacks.|ipv4 hash:net|663 subnets, 736 unique IPs|
 [dronebl_compromised](http://iplists.firehol.org/?ipset=dronebl_compromised)|[DroneBL.org](https://dronebl.org) IPs of compromised routers / gateways. It includes IPs for which DroneBL responds with 15 (BOPM detected).|ipv4 hash:net|629 subnets, 630 unique IPs|
 [dronebl_ddos_drones](http://iplists.firehol.org/?ipset=dronebl_ddos_drones)|[DroneBL.org](https://dronebl.org) IPs of DDoS drones. It includes IPs for which DroneBL responds with 7.|ipv4 hash:net|399 subnets, 401 unique IPs|
