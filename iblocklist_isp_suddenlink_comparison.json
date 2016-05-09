@@ -92,7 +92,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11602,
+		"ips": 11596,
 		"common": 3
 	},
 	{
@@ -108,46 +108,58 @@
 		"common": 3
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 3971,
+		"common": 2
+	},
+	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 36179,
-		"common": 2
+		"ips": 36124,
+		"common": 3
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 199619,
-		"common": 11
+		"ips": 199622,
+		"common": 12
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 89464,
-		"common": 5
+		"ips": 89373,
+		"common": 6
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 88906,
+		"ips": 88904,
 		"common": 4
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 38550,
-		"common": 2
+		"ips": 38501,
+		"common": 3
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 213908,
-		"common": 9
+		"ips": 213906,
+		"common": 10
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 94870,
-		"common": 5
+		"ips": 94800,
+		"common": 6
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -188,14 +200,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 43436,
-		"common": 2
+		"ips": 43356,
+		"common": 3
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 376049,
-		"common": 15
+		"ips": 376057,
+		"common": 16
 	},
 	{
 		"name": "firehol_anonymous",
@@ -218,13 +230,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2033970,
+		"ips": 2033979,
 		"common": 258
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9566449,
+		"ips": 9566444,
 		"common": 4
 	},
 	{
@@ -320,8 +332,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 30706,
-		"common": 5
+		"ips": 31510,
+		"common": 4
 	},
 	{
 		"name": "nullsecure",
@@ -530,7 +542,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 41575,
+		"ips": 41402,
 		"common": 1
 	}
 ]
