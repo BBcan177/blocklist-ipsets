@@ -248,25 +248,25 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5554,
-		"common": 602
+		"ips": 5560,
+		"common": 607
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7416,
-		"common": 637
+		"ips": 7399,
+		"common": 636
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29416,
+		"ips": 29415,
 		"common": 1103
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12907,
+		"ips": 12912,
 		"common": 758
 	},
 	{
@@ -332,7 +332,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11712,
+		"ips": 11713,
 		"common": 1188
 	},
 	{
@@ -392,26 +392,26 @@
 	{
 		"name": "botscout",
 		"category": "abuse",
-		"ips": 61,
-		"common": 1
+		"ips": 53,
+		"common": 4
 	},
 	{
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 1334,
-		"common": 78
+		"common": 82
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18808,
-		"common": 1133
+		"ips": 18818,
+		"common": 1135
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6020,
-		"common": 329
+		"ips": 6016,
+		"common": 331
 	},
 	{
 		"name": "botvrij_dst",
@@ -458,7 +458,7 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 3407,
+		"ips": 3404,
 		"common": 192
 	},
 	{
@@ -872,8 +872,8 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 44329,
-		"common": 3704
+		"ips": 44331,
+		"common": 3705
 	},
 	{
 		"name": "firehol_abusers_30d",
@@ -890,26 +890,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668995966,
+		"ips": 668995965,
 		"common": 4922614
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 129745,
-		"common": 12739
+		"common": 12740
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2029955,
-		"common": 153731
+		"ips": 2030226,
+		"common": 153744
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568586,
-		"common": 161485
+		"ips": 9568598,
+		"common": 161487
 	},
 	{
 		"name": "firehol_proxies",
@@ -1370,8 +1370,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37021,
-		"common": 2686
+		"ips": 37019,
+		"common": 2700
 	},
 	{
 		"name": "nt_malware_dns",
@@ -1682,7 +1682,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 607,
+		"ips": 608,
 		"common": 41
 	},
 	{
@@ -1886,7 +1886,7 @@
 	{
 		"name": "sslbl",
 		"category": "malware",
-		"ips": 67,
+		"ips": 66,
 		"common": 3
 	},
 	{
@@ -1976,8 +1976,8 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 41983,
-		"common": 2416
+		"ips": 42265,
+		"common": 2429
 	},
 	{
 		"name": "threatcrowd",
@@ -2026,6 +2026,12 @@
 		"category": "malware",
 		"ips": 122,
 		"common": 12
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 35,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

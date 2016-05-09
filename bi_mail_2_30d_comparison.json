@@ -138,16 +138,28 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 53,
+		"common": 1
+	},
+	{
+		"name": "botscout_1d",
+		"category": "abuse",
+		"ips": 1334,
+		"common": 1
+	},
+	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18808,
+		"ips": 18818,
 		"common": 46
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6020,
-		"common": 15
+		"ips": 6016,
+		"common": 16
 	},
 	{
 		"name": "bruteforceblocker",
@@ -362,7 +374,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 44329,
+		"ips": 44331,
 		"common": 105
 	},
 	{
@@ -380,7 +392,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668995966,
+		"ips": 668995965,
 		"common": 19
 	},
 	{
@@ -392,13 +404,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2029955,
+		"ips": 2030226,
 		"common": 195
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568586,
+		"ips": 9568598,
 		"common": 57
 	},
 	{
@@ -614,8 +626,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37021,
-		"common": 259
+		"ips": 37019,
+		"common": 263
 	},
 	{
 		"name": "nullsecure",
@@ -1076,7 +1088,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 41983,
+		"ips": 42265,
 		"common": 48
 	},
 	{
