@@ -14,25 +14,25 @@
 	{
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
-		"ips": 1526,
+		"ips": 1530,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18530,
+		"ips": 18520,
 		"common": 33
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1835,
+		"ips": 1839,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14288,
+		"ips": 14261,
 		"common": 30
 	},
 	{
@@ -146,7 +146,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 302036,
+		"ips": 302034,
 		"common": 9
 	},
 	{
@@ -182,8 +182,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 139946,
+		"ips": 139938,
 		"common": 33
+	},
+	{
+		"name": "firehol_level3",
+		"category": "attacks",
+		"ips": 2026100,
+		"common": 1
 	},
 	{
 		"name": "firehol_level4",
@@ -272,8 +278,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36382,
-		"common": 30
+		"ips": 36418,
+		"common": 29
 	},
 	{
 		"name": "php_commenters_30d",
@@ -538,6 +544,12 @@
 		"category": "abuse",
 		"ips": 187782,
 		"common": 36
+	},
+	{
+		"name": "talosintel_ipfilter",
+		"category": "attacks",
+		"ips": 43261,
+		"common": 1
 	},
 	{
 		"name": "xroxy_30d",
