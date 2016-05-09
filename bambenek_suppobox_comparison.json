@@ -6,6 +6,12 @@
 		"common": 48
 	},
 	{
+		"name": "bambenek_ramnit",
+		"category": "malware",
+		"ips": 8,
+		"common": 1
+	},
+	{
 		"name": "bambenek_simda",
 		"category": "malware",
 		"ips": 122,
@@ -86,13 +92,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668995969,
+		"ips": 668995978,
 		"common": 48
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2031747,
+		"ips": 2029955,
 		"common": 1
 	},
 	{
@@ -226,12 +232,6 @@
 		"category": "reputation",
 		"ips": 45568136,
 		"common": 10
-	},
-	{
-		"name": "ransomware_feed",
-		"category": "malware",
-		"ips": 618,
-		"common": 1
 	},
 	{
 		"name": "snort_ipfilter",
