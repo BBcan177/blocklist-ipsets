@@ -182,7 +182,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 44492,
+		"ips": 44524,
 		"common": 1
 	},
 	{
@@ -194,8 +194,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668995960,
-		"common": 19
+		"ips": 668995961,
+		"common": 20
 	},
 	{
 		"name": "firehol_level3",
@@ -416,7 +416,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 608,
+		"ips": 607,
 		"common": 1
 	},
 	{
@@ -484,5 +484,11 @@
 		"category": "malware",
 		"ips": 164,
 		"common": 2
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 137,
+		"common": 1
 	}
 ]
