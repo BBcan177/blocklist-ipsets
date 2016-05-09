@@ -50,8 +50,8 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18543,
-		"common": 66
+		"ips": 18588,
+		"common": 67
 	},
 	{
 		"name": "ciarmy",
@@ -69,6 +69,12 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 213502,
+		"common": 1
+	},
+	{
+		"name": "cybercrime",
+		"category": "malware",
+		"ips": 6894,
 		"common": 1
 	},
 	{
@@ -110,8 +116,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 148831,
-		"common": 66
+		"ips": 148874,
+		"common": 67
 	},
 	{
 		"name": "firehol_level3",
@@ -123,7 +129,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9568262,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "firehol_webserver",
@@ -138,6 +144,12 @@
 		"common": 19
 	},
 	{
+		"name": "greensnow",
+		"category": "attacks",
+		"ips": 4497,
+		"common": 1
+	},
+	{
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 21095,
@@ -147,6 +159,12 @@
 		"name": "iblocklist_ads",
 		"category": "organizations",
 		"ips": 888645,
+		"common": 1
+	},
+	{
+		"name": "iblocklist_bogons",
+		"category": "unroutable",
+		"ips": 666661539,
 		"common": 1
 	},
 	{
