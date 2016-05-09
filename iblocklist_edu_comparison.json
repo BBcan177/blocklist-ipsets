@@ -254,7 +254,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11586,
+		"ips": 11583,
 		"common": 90
 	},
 	{
@@ -374,7 +374,7 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 6099,
+		"ips": 6094,
 		"common": 58
 	},
 	{
@@ -476,8 +476,8 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6862,
-		"common": 161
+		"ips": 6839,
+		"common": 159
 	},
 	{
 		"name": "dragon_http",
@@ -770,7 +770,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 93887,
+		"ips": 93931,
 		"common": 569
 	},
 	{
@@ -794,7 +794,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568169,
+		"ips": 9568166,
 		"common": 179610
 	},
 	{
@@ -1448,7 +1448,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 604,
+		"ips": 605,
 		"common": 7
 	},
 	{
@@ -1788,16 +1788,28 @@
 		"common": 35
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 67,
+		"common": 1
+	},
+	{
+		"name": "xroxy_1d",
+		"category": "anonymizers",
+		"ips": 134,
+		"common": 1
+	},
+	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 554,
-		"common": 3
+		"ips": 559,
+		"common": 4
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 277,
-		"common": 2
+		"ips": 282,
+		"common": 3
 	},
 	{
 		"name": "yoyo_adservers",
@@ -1814,7 +1826,7 @@
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 139,
+		"ips": 138,
 		"common": 9
 	}
 ]

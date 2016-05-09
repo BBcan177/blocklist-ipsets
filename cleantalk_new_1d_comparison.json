@@ -86,8 +86,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11586,
-		"common": 59
+		"ips": 11583,
+		"common": 60
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -218,7 +218,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6862,
+		"ips": 6839,
 		"common": 3
 	},
 	{
@@ -314,7 +314,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 93887,
+		"ips": 93931,
 		"common": 141
 	},
 	{
@@ -338,8 +338,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568169,
-		"common": 189
+		"ips": 9568166,
+		"common": 190
 	},
 	{
 		"name": "firehol_proxies",
@@ -960,15 +960,27 @@
 		"common": 3
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 67,
+		"common": 1
+	},
+	{
+		"name": "xroxy_1d",
+		"category": "anonymizers",
+		"ips": 134,
+		"common": 1
+	},
+	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 554,
-		"common": 1
+		"ips": 559,
+		"common": 2
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 277,
-		"common": 1
+		"ips": 282,
+		"common": 2
 	}
 ]
