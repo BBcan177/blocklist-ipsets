@@ -74,7 +74,7 @@
 	{
 		"name": "bambenek_simda",
 		"category": "malware",
-		"ips": 118,
+		"ips": 117,
 		"common": 1
 	},
 	{
@@ -152,7 +152,7 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29409,
+		"ips": 29406,
 		"common": 2
 	},
 	{
@@ -218,8 +218,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11682,
-		"common": 104
+		"ips": 11681,
+		"common": 105
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -536,7 +536,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668995701,
+		"ips": 668995699,
 		"common": 212
 	},
 	{
@@ -548,14 +548,14 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2029273,
+		"ips": 2029696,
 		"common": 4683
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568583,
-		"common": 967
+		"ips": 9568589,
+		"common": 968
 	},
 	{
 		"name": "firehol_proxies",
@@ -632,7 +632,7 @@
 	{
 		"name": "hphosts_pha",
 		"category": "reputation",
-		"ips": 1547,
+		"ips": 1553,
 		"common": 7
 	},
 	{
@@ -902,8 +902,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37148,
-		"common": 16
+		"ips": 37075,
+		"common": 15
 	},
 	{
 		"name": "nt_ssh_7d",
@@ -1262,7 +1262,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 42040,
+		"ips": 42485,
 		"common": 16
 	},
 	{
@@ -1306,6 +1306,12 @@
 		"category": "reputation",
 		"ips": 14620,
 		"common": 1942
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 38,
+		"common": 1
 	},
 	{
 		"name": "voipbl",

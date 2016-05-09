@@ -1,15 +1,27 @@
 [
 	{
+		"name": "alienvault_reputation",
+		"category": "reputation",
+		"ips": 9796,
+		"common": 1
+	},
+	{
+		"name": "bds_atif",
+		"category": "reputation",
+		"ips": 19260,
+		"common": 1
+	},
+	{
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 18543,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 14348,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "botscout_30d",
@@ -93,12 +105,12 @@
 		"name": "firehol_level2",
 		"category": "attacks",
 		"ips": 135109,
-		"common": 37
+		"common": 38
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568583,
+		"ips": 9568589,
 		"common": 1
 	},
 	{
@@ -168,6 +180,12 @@
 		"common": 1
 	},
 	{
+		"name": "jigsaw_malware",
+		"category": "malware",
+		"ips": 59614,
+		"common": 1
+	},
+	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1514306,
@@ -176,26 +194,44 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37148,
-		"common": 2
+		"ips": 37075,
+		"common": 3
 	},
 	{
 		"name": "nullsecure",
 		"category": "reputation",
 		"ips": 29439,
+		"common": 2
+	},
+	{
+		"name": "openbl_180d",
+		"category": "attacks",
+		"ips": 9571,
 		"common": 1
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 21389,
+		"common": 2
+	},
+	{
+		"name": "openbl_60d",
+		"category": "attacks",
+		"ips": 3633,
+		"common": 1
+	},
+	{
+		"name": "openbl_90d",
+		"category": "attacks",
+		"ips": 5202,
 		"common": 1
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 116730,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "proxylists",
@@ -303,7 +339,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 949450,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "sorbs_web",
