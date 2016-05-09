@@ -560,19 +560,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668995965,
-		"common": 19234
+		"ips": 668995964,
+		"common": 19235
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 148853,
+		"ips": 148851,
 		"common": 280
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2026022,
+		"ips": 2025254,
 		"common": 542
 	},
 	{
@@ -926,7 +926,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36060,
+		"ips": 36042,
 		"common": 20
 	},
 	{
@@ -1046,7 +1046,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 608,
+		"ips": 607,
 		"common": 3
 	},
 	{
@@ -1232,7 +1232,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 43780,
+		"ips": 43508,
 		"common": 19
 	},
 	{
@@ -1293,6 +1293,12 @@
 		"name": "zeus",
 		"category": "malware",
 		"ips": 164,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 137,
 		"common": 1
 	}
 ]

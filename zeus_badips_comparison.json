@@ -3,7 +3,7 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 19260,
-		"common": 137
+		"common": 136
 	},
 	{
 		"name": "blocklist_de",
@@ -93,7 +93,7 @@
 		"name": "et_block",
 		"category": "attacks",
 		"ips": 23289339,
-		"common": 136
+		"common": 134
 	},
 	{
 		"name": "et_spamhaus",
@@ -110,20 +110,20 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668995965,
-		"common": 138
+		"ips": 668995964,
+		"common": 137
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 148853,
+		"ips": 148851,
 		"common": 1
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2026022,
-		"common": 138
+		"ips": 2025254,
+		"common": 137
 	},
 	{
 		"name": "firehol_level4",
@@ -147,7 +147,7 @@
 		"name": "hphosts_ats",
 		"category": "organizations",
 		"ips": 16345,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "hphosts_emd",
@@ -159,6 +159,18 @@
 		"name": "hphosts_fsa",
 		"category": "reputation",
 		"ips": 8437,
+		"common": 2
+	},
+	{
+		"name": "hphosts_mmt",
+		"category": "reputation",
+		"ips": 1154,
+		"common": 1
+	},
+	{
+		"name": "hphosts_pha",
+		"category": "reputation",
+		"ips": 1553,
 		"common": 1
 	},
 	{
@@ -168,16 +180,28 @@
 		"common": 3
 	},
 	{
+		"name": "hphosts_wrz",
+		"category": "reputation",
+		"ips": 882,
+		"common": 1
+	},
+	{
 		"name": "iblocklist_abuse_zeus",
 		"category": "malware",
 		"ips": 212,
-		"common": 109
+		"common": 107
+	},
+	{
+		"name": "iblocklist_ads",
+		"category": "organizations",
+		"ips": 888645,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "iblocklist_edu",
@@ -261,7 +285,7 @@
 		"name": "snort_ipfilter",
 		"category": "attacks",
 		"ips": 42485,
-		"common": 123
+		"common": 122
 	},
 	{
 		"name": "sorbs_dul",
@@ -350,13 +374,19 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 43780,
-		"common": 122
+		"ips": 43508,
+		"common": 121
+	},
+	{
+		"name": "threatcrowd",
+		"category": "malware",
+		"ips": 2594,
+		"common": 1
 	},
 	{
 		"name": "zeus",
 		"category": "malware",
 		"ips": 164,
-		"common": 138
+		"common": 137
 	}
 ]
