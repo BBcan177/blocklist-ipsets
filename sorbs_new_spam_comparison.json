@@ -56,61 +56,61 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5403,
+		"ips": 5399,
 		"common": 1
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7372,
+		"ips": 7366,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29412,
+		"ips": 29415,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12900,
+		"ips": 12901,
 		"common": 2
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18589,
-		"common": 1891
+		"ips": 18578,
+		"common": 1888
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1893,
-		"common": 28
+		"ips": 1894,
+		"common": 27
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 805,
+		"ips": 811,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14302,
-		"common": 1862
+		"ips": 14298,
+		"common": 1860
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1457,
+		"ips": 1449,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_strongips",
 		"category": "attacks",
-		"ips": 107,
+		"ips": 108,
 		"common": 2
 	},
 	{
@@ -470,14 +470,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 44640,
-		"common": 447
+		"ips": 44652,
+		"common": 450
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 375334,
-		"common": 1351
+		"ips": 375331,
+		"common": 1353
 	},
 	{
 		"name": "firehol_anonymous",
@@ -494,13 +494,13 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 149104,
-		"common": 1939
+		"ips": 149094,
+		"common": 1936
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2027118,
+		"ips": 2027121,
 		"common": 3806
 	},
 	{
@@ -894,16 +894,28 @@
 		"common": 6
 	},
 	{
+		"name": "php_commenters",
+		"category": "spam",
+		"ips": 50,
+		"common": 6
+	},
+	{
+		"name": "php_commenters_1d",
+		"category": "spam",
+		"ips": 90,
+		"common": 6
+	},
+	{
 		"name": "php_commenters_30d",
 		"category": "spam",
-		"ips": 831,
-		"common": 27
+		"ips": 826,
+		"common": 30
 	},
 	{
 		"name": "php_commenters_7d",
 		"category": "spam",
 		"ips": 257,
-		"common": 7
+		"common": 12
 	},
 	{
 		"name": "php_dictionary",
@@ -1172,8 +1184,8 @@
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1279,
-		"common": 571
+		"ips": 1273,
+		"common": 567
 	},
 	{
 		"name": "socks_proxy_30d",
@@ -1262,7 +1274,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 624,
+		"ips": 623,
 		"common": 15
 	},
 	{
