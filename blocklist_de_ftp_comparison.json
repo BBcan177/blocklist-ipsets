@@ -50,20 +50,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18571,
-		"common": 328
+		"ips": 18530,
+		"common": 326
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 11554,
-		"common": 154
+		"common": 153
 	},
 	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 55627,
 		"common": 3
+	},
+	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 1087,
+		"common": 1
 	},
 	{
 		"name": "ciarmy",
@@ -135,13 +141,13 @@
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 213573,
-		"common": 186
+		"common": 185
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
 		"ips": 94253,
-		"common": 165
+		"common": 164
 	},
 	{
 		"name": "cta_cryptowall",
@@ -183,7 +189,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1933824,
-		"common": 67
+		"common": 66
 	},
 	{
 		"name": "dshield_7d",
@@ -212,26 +218,26 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 138451,
-		"common": 328
+		"ips": 138413,
+		"common": 326
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2025802,
+		"ips": 2024779,
 		"common": 74
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9568509,
-		"common": 155
+		"common": 154
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45774722,
-		"common": 9
+		"common": 8
 	},
 	{
 		"name": "gofferje_sip",
@@ -243,7 +249,7 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2102,
-		"common": 114
+		"common": 113
 	},
 	{
 		"name": "hphosts_emd",
@@ -292,12 +298,6 @@
 		"category": "reputation",
 		"ips": 139039391,
 		"common": 13
-	},
-	{
-		"name": "iblocklist_pedophiles",
-		"category": "reputation",
-		"ips": 846986,
-		"common": 1
 	},
 	{
 		"name": "iblocklist_rangetest",
@@ -399,7 +399,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45568136,
-		"common": 6
+		"common": 5
 	},
 	{
 		"name": "sblam",
@@ -447,7 +447,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136185405,
-		"common": 78
+		"common": 77
 	},
 	{
 		"name": "sp_atma",
