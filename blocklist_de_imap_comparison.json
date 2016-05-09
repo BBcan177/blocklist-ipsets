@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 9754,
-		"common": 62
+		"common": 60
 	},
 	{
 		"name": "atlas_attacks",
@@ -39,49 +39,49 @@
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 19260,
-		"common": 64
+		"common": 62
 	},
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
 		"ips": 1330,
-		"common": 93
+		"common": 94
 	},
 	{
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 6579,
-		"common": 172
+		"common": 173
 	},
 	{
 		"name": "bi_any_2_7d",
 		"category": "attacks",
 		"ips": 3018,
-		"common": 149
+		"common": 150
 	},
 	{
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 1526,
-		"common": 164
+		"common": 165
 	},
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 4561,
-		"common": 6
+		"common": 5
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18313,
-		"common": 770
+		"ips": 18278,
+		"common": 767
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14112,
-		"common": 770
+		"ips": 14089,
+		"common": 767
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -114,16 +114,10 @@
 		"common": 1
 	},
 	{
-		"name": "bruteforceblocker",
-		"category": "attacks",
-		"ips": 1080,
-		"common": 1
-	},
-	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 883,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "cidr_report_bogons",
@@ -237,7 +231,7 @@
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 467456,
-		"common": 16
+		"common": 15
 	},
 	{
 		"name": "dshield_top_1000",
@@ -284,14 +278,14 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 124109,
-		"common": 770
+		"ips": 124074,
+		"common": 767
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
 		"ips": 2031608,
-		"common": 75
+		"common": 74
 	},
 	{
 		"name": "firehol_level4",
@@ -357,13 +351,13 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 29
+		"common": 28
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 1004,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -429,13 +423,13 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 19
+		"common": 21
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
 		"ips": 346613099,
-		"common": 79
+		"common": 80
 	},
 	{
 		"name": "iblocklist_level3",
@@ -459,7 +453,7 @@
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
 		"ips": 4346058,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -477,7 +471,7 @@
 		"name": "jigsaw_attacks",
 		"category": "attacks",
 		"ips": 27109,
-		"common": 124
+		"common": 125
 	},
 	{
 		"name": "jigsaw_malware",
@@ -513,7 +507,7 @@
 		"name": "openbl_180d",
 		"category": "attacks",
 		"ips": 9571,
-		"common": 50
+		"common": 49
 	},
 	{
 		"name": "openbl_1d",
@@ -525,43 +519,43 @@
 		"name": "openbl_30d",
 		"category": "attacks",
 		"ips": 1902,
-		"common": 28
+		"common": 27
 	},
 	{
 		"name": "openbl_360d",
 		"category": "attacks",
 		"ips": 21389,
-		"common": 53
+		"common": 52
 	},
 	{
 		"name": "openbl_60d",
 		"category": "attacks",
 		"ips": 3633,
-		"common": 39
+		"common": 38
 	},
 	{
 		"name": "openbl_7d",
 		"category": "attacks",
 		"ips": 638,
-		"common": 13
+		"common": 12
 	},
 	{
 		"name": "openbl_90d",
 		"category": "attacks",
 		"ips": 5202,
-		"common": 48
+		"common": 47
 	},
 	{
 		"name": "openbl_all",
 		"category": "attacks",
 		"ips": 116730,
-		"common": 59
+		"common": 58
 	},
 	{
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 779,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "packetmail_carisirt",
@@ -627,7 +621,7 @@
 		"name": "sorbs_recent_spam",
 		"category": "spam",
 		"ips": 950156,
-		"common": 33
+		"common": 34
 	},
 	{
 		"name": "sorbs_web",
@@ -639,7 +633,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136185405,
-		"common": 53
+		"common": 52
 	},
 	{
 		"name": "spamhaus_drop",
