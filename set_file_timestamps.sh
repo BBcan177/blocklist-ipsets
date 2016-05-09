@@ -1,6 +1,6 @@
 #!/bin/bash
 [ ! "$1" = "YES_I_AM_SURE_DO_IT_PLEASE" ] && echo "READ ME NOW" && exit 1
-[ -f 'alienvault_reputation.ipset' ] && /bin/touch --date=@1462782602 'alienvault_reputation.ipset'
+[ -f 'alienvault_reputation.ipset' ] && /bin/touch --date=@1462804202 'alienvault_reputation.ipset'
 [ -f 'geolite2_country/anonymous.netset' ] && /bin/touch --date=@1460478568 'geolite2_country/anonymous.netset'
 [ -f 'asprox_c2.ipset' ] && /bin/touch --date=@1462185851 'asprox_c2.ipset'
 [ -f 'atlas_attacks.ipset' ] && /bin/touch --date=@1462752342 'atlas_attacks.ipset'
@@ -48,7 +48,7 @@
 [ -f 'bbcan177_ms1.netset' ] && /bin/touch --date=@1462233096 'bbcan177_ms1.netset'
 [ -f 'bbcan177_ms3.netset' ] && /bin/touch --date=@1462233096 'bbcan177_ms3.netset'
 [ -f 'bds_atif.ipset' ] && /bin/touch --date=@1462777802 'bds_atif.ipset'
-[ -f 'bi_any_2_1d.ipset' ] && /bin/touch --date=@1462802684 'bi_any_2_1d.ipset'
+[ -f 'bi_any_2_1d.ipset' ] && /bin/touch --date=@1462804590 'bi_any_2_1d.ipset'
 [ -f 'bi_any_2_30d.ipset' ] && /bin/touch --date=@1462773663 'bi_any_2_30d.ipset'
 [ -f 'bi_any_2_7d.ipset' ] && /bin/touch --date=@1462799808 'bi_any_2_7d.ipset'
 [ -f 'bi_bruteforce_2_30d.ipset' ] && /bin/touch --date=@1461782652 'bi_bruteforce_2_30d.ipset'
@@ -1142,9 +1142,9 @@
 [ -f 'voipbl.netset' ] && /bin/touch --date=@1462733306 'voipbl.netset'
 [ -f 'vxvault.ipset' ] && /bin/touch --date=@1462779158 'vxvault.ipset'
 [ -f 'xroxy.ipset' ] && /bin/touch --date=@1462800781 'xroxy.ipset'
-[ -f 'xroxy_1d.ipset' ] && /bin/touch --date=@1462800781 'xroxy_1d.ipset'
+[ -f 'xroxy_1d.ipset' ] && /bin/touch --date=@1462804381 'xroxy_1d.ipset'
 [ -f 'xroxy_30d.ipset' ] && /bin/touch --date=@1462800781 'xroxy_30d.ipset'
-[ -f 'xroxy_7d.ipset' ] && /bin/touch --date=@1462800781 'xroxy_7d.ipset'
+[ -f 'xroxy_7d.ipset' ] && /bin/touch --date=@1462804381 'xroxy_7d.ipset'
 [ -f 'yoyo_adservers.ipset' ] && /bin/touch --date=@1462533124 'yoyo_adservers.ipset'
 [ -f 'zeus.ipset' ] && /bin/touch --date=@1462786646 'zeus.ipset'
 [ -f 'zeus_badips.ipset' ] && /bin/touch --date=@1462803603 'zeus_badips.ipset'
