@@ -104,19 +104,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18532,
-		"common": 1526
+		"ips": 18568,
+		"common": 1530
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9429,
+		"ips": 9430,
 		"common": 17
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1798,
+		"ips": 1802,
 		"common": 5
 	},
 	{
@@ -128,20 +128,20 @@
 	{
 		"name": "blocklist_de_ftp",
 		"category": "attacks",
-		"ips": 317,
+		"ips": 320,
 		"common": 90
 	},
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 792,
-		"common": 158
+		"ips": 797,
+		"common": 161
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14341,
-		"common": 501
+		"ips": 14365,
+		"common": 504
 	},
 	{
 		"name": "blocklist_de_sip",
@@ -152,8 +152,8 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1590,
-		"common": 900
+		"ips": 1594,
+		"common": 901
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -362,7 +362,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6936,
+		"ips": 6920,
 		"common": 8
 	},
 	{
@@ -428,7 +428,7 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 114688,
+		"ips": 114944,
 		"common": 282
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 94109,
+		"ips": 94159,
 		"common": 277
 	},
 	{
@@ -524,8 +524,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 134845,
-		"common": 1722
+		"ips": 135134,
+		"common": 1725
 	},
 	{
 		"name": "firehol_level3",
@@ -842,7 +842,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 37152,
+		"ips": 37148,
 		"common": 252
 	},
 	{
@@ -1134,22 +1134,28 @@
 		"common": 4
 	},
 	{
+		"name": "ri_web_proxies",
+		"category": "anonymizers",
+		"ips": 145,
+		"common": 3
+	},
+	{
 		"name": "ri_web_proxies_1d",
 		"category": "anonymizers",
-		"ips": 409,
-		"common": 2
+		"ips": 433,
+		"common": 4
 	},
 	{
 		"name": "ri_web_proxies_30d",
 		"category": "anonymizers",
-		"ips": 4598,
-		"common": 63
+		"ips": 4578,
+		"common": 64
 	},
 	{
 		"name": "ri_web_proxies_7d",
 		"category": "anonymizers",
-		"ips": 1568,
-		"common": 23
+		"ips": 1545,
+		"common": 25
 	},
 	{
 		"name": "satellite",
