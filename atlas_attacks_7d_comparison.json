@@ -14,14 +14,14 @@
 	{
 		"name": "atlas_attacks_2d",
 		"category": "attacks",
-		"ips": 16,
-		"common": 16
+		"ips": 15,
+		"common": 15
 	},
 	{
 		"name": "atlas_attacks_30d",
 		"category": "attacks",
-		"ips": 91,
-		"common": 24
+		"ips": 95,
+		"common": 25
 	},
 	{
 		"name": "atlas_scans",
@@ -51,13 +51,13 @@
 		"name": "bbcan177_ms3",
 		"category": "malware",
 		"ips": 30150671,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 17884,
-		"common": 7
+		"common": 9
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -141,7 +141,7 @@
 		"name": "dragon_vncprobe",
 		"category": "attacks",
 		"ips": 112,
-		"common": 5
+		"common": 3
 	},
 	{
 		"name": "dshield",
@@ -159,7 +159,7 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1947392,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "dshield_7d",
@@ -194,19 +194,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 115269,
+		"ips": 115270,
 		"common": 6
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2039884,
-		"common": 12
+		"ips": 2040081,
+		"common": 11
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568131,
+		"ips": 9568123,
 		"common": 1
 	},
 	{
@@ -243,7 +243,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983904,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "iblocklist_isp_comcast",
@@ -256,6 +256,12 @@
 		"category": "reputation",
 		"ips": 346613099,
 		"common": 2
+	},
+	{
+		"name": "iblocklist_level3",
+		"category": "reputation",
+		"ips": 139039391,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -273,7 +279,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 8
+		"common": 6
 	},
 	{
 		"name": "nullsecure",
@@ -321,7 +327,7 @@
 		"name": "packetmail",
 		"category": "reputation",
 		"ips": 776,
-		"common": 6
+		"common": 3
 	},
 	{
 		"name": "packetmail_emerging_ips",
@@ -351,12 +357,12 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 9018,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 11179,
-		"common": 5
+		"common": 6
 	}
 ]
