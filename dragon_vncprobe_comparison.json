@@ -104,7 +104,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11693,
+		"ips": 11689,
 		"common": 1
 	},
 	{
@@ -140,13 +140,13 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 199269,
+		"ips": 199248,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 213624,
+		"ips": 213609,
 		"common": 1
 	},
 	{
@@ -206,7 +206,7 @@
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 375348,
+		"ips": 375338,
 		"common": 1
 	},
 	{
@@ -224,20 +224,20 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2026433,
-		"common": 110
+		"ips": 2026434,
+		"common": 111
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568666,
+		"ips": 9568663,
 		"common": 3
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45774722,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "greensnow",
@@ -297,7 +297,13 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139039391,
-		"common": 9
+		"common": 10
+	},
+	{
+		"name": "iblocklist_rangetest",
+		"category": "reputation",
+		"ips": 4346058,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_spamhaus_drop",
@@ -411,7 +417,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45568136,
-		"common": 6
+		"common": 7
 	},
 	{
 		"name": "sorbs_dul",
