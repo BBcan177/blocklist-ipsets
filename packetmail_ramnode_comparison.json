@@ -321,25 +321,25 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 17
+		"common": 41
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 124160,
-		"common": 105
+		"ips": 126720,
+		"common": 106
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1932032,
-		"common": 174
+		"ips": 1934336,
+		"common": 175
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 496384,
-		"common": 133
+		"ips": 498944,
+		"common": 134
 	},
 	{
 		"name": "dshield_top_1000",
@@ -386,25 +386,25 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 93949,
+		"ips": 93945,
 		"common": 70
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668995194,
-		"common": 25
+		"ips": 668995966,
+		"common": 50
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 146508,
-		"common": 142
+		"ips": 149066,
+		"common": 143
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2025583,
+		"ips": 2027886,
 		"common": 297
 	},
 	{
@@ -416,7 +416,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 36875,
+		"ips": 36871,
 		"common": 51
 	},
 	{
@@ -568,6 +568,12 @@
 		"category": "abuse",
 		"ips": 200,
 		"common": 4
+	},
+	{
+		"name": "iw_spamlist",
+		"category": "spam",
+		"ips": 2796,
+		"common": 1
 	},
 	{
 		"name": "jigsaw_attacks",
