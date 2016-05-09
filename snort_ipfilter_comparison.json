@@ -56,8 +56,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 977,
-		"common": 1
+		"ips": 990,
+		"common": 2
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -266,7 +266,7 @@
 	{
 		"name": "cleanmx_viruses",
 		"category": "spam",
-		"ips": 6517,
+		"ips": 6564,
 		"common": 32
 	},
 	{
@@ -386,7 +386,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 302031,
+		"ips": 302029,
 		"common": 61
 	},
 	{
@@ -416,19 +416,19 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 119808,
+		"ips": 121600,
 		"common": 15
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1933824,
+		"ips": 1934848,
 		"common": 261
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 485120,
+		"ips": 486656,
 		"common": 87
 	},
 	{
@@ -482,13 +482,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668996214,
+		"ips": 668995957,
 		"common": 661
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 142166,
+		"ips": 143957,
 		"common": 221
 	},
 	{
@@ -500,7 +500,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568351,
+		"ips": 9568398,
 		"common": 658
 	},
 	{
@@ -1136,7 +1136,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 608,
+		"ips": 607,
 		"common": 17
 	},
 	{
@@ -1218,9 +1218,15 @@
 		"common": 11
 	},
 	{
+		"name": "socks_proxy",
+		"category": "anonymizers",
+		"ips": 80,
+		"common": 3
+	},
+	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1311,
+		"ips": 1308,
 		"common": 58
 	},
 	{
