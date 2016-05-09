@@ -50,7 +50,7 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5521,
+		"ips": 5527,
 		"common": 2
 	},
 	{
@@ -62,13 +62,13 @@
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29415,
+		"ips": 29420,
 		"common": 2
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12898,
+		"ips": 12905,
 		"common": 2
 	},
 	{
@@ -158,74 +158,74 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 4096,
-		"common": 84
+		"ips": 4108,
+		"common": 81
 	},
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 36511,
-		"common": 1716
+		"ips": 36487,
+		"common": 1720
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 199269,
-		"common": 4901
+		"common": 4902
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 89050,
-		"common": 2957
+		"ips": 89013,
+		"common": 2956
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 2137,
+		"ips": 2145,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 4469,
-		"common": 19
+		"ips": 4448,
+		"common": 17
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 88738,
+		"ips": 88745,
 		"common": 1413
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 22233,
+		"ips": 22223,
 		"common": 287
 	},
 	{
 		"name": "cleantalk_updated",
 		"category": "abuse",
 		"ips": 2000,
-		"common": 83
+		"common": 80
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 38903,
-		"common": 1740
+		"ips": 38902,
+		"common": 1744
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 213555,
-		"common": 5050
+		"ips": 213564,
+		"common": 5051
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 94449,
-		"common": 3026
+		"ips": 94431,
+		"common": 3025
 	},
 	{
 		"name": "cruzit_web_attacks",
@@ -332,14 +332,14 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 44028,
-		"common": 1862
+		"ips": 43990,
+		"common": 1865
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 375921,
-		"common": 5174
+		"ips": 375930,
+		"common": 5175
 	},
 	{
 		"name": "firehol_anonymous",
@@ -350,19 +350,19 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668995965,
+		"ips": 668995964,
 		"common": 3
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 128936,
-		"common": 231
+		"ips": 128938,
+		"common": 232
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2033207,
+		"ips": 2033537,
 		"common": 101
 	},
 	{
@@ -638,7 +638,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 36962,
+		"ips": 36988,
 		"common": 98
 	},
 	{
@@ -1088,8 +1088,14 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 41897,
+		"ips": 42235,
 		"common": 9
+	},
+	{
+		"name": "virbl",
+		"category": "spam",
+		"ips": 35,
+		"common": 1
 	},
 	{
 		"name": "xroxy",
