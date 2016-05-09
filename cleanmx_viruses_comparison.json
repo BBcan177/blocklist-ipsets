@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11647,
+		"ips": 11646,
 		"common": 89
 	},
 	{
@@ -354,21 +354,27 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 3
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 111104,
+		"ips": 109312,
 		"common": 20
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1941760,
+		"ips": 1942272,
 		"common": 128
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 474880,
+		"ips": 473088,
 		"common": 58
 	},
 	{
@@ -536,19 +542,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 94135,
+		"ips": 94159,
 		"common": 4
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 668995963,
-		"common": 37
+		"common": 40
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 131214,
+		"ips": 129422,
 		"common": 43
 	},
 	{
@@ -921,7 +927,7 @@
 		"name": "ransomware_feed",
 		"category": "malware",
 		"ips": 607,
-		"common": 35
+		"common": 34
 	},
 	{
 		"name": "ransomware_rw",
