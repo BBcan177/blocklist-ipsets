@@ -456,22 +456,28 @@
 		"common": 351
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 27
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 121088,
-		"common": 242
+		"ips": 125440,
+		"common": 269
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1933312,
-		"common": 6865
+		"ips": 1935104,
+		"common": 6892
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 487936,
-		"common": 1340
+		"ips": 491264,
+		"common": 1367
 	},
 	{
 		"name": "dshield_top_1000",
@@ -620,8 +626,8 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 94076,
-		"common": 5349
+		"ips": 94050,
+		"common": 5348
 	},
 	{
 		"name": "firehol_level1",
@@ -650,8 +656,8 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 36929,
-		"common": 5326
+		"ips": 36903,
+		"common": 5325
 	},
 	{
 		"name": "firehol_webserver",
@@ -1016,8 +1022,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 2957,
-		"common": 1377
+		"ips": 2918,
+		"common": 1348
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -1148,8 +1154,8 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 97,
-		"common": 46
+		"ips": 104,
+		"common": 47
 	},
 	{
 		"name": "packetmail_ramnode",
@@ -1455,24 +1461,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 49
+		"common": 47
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1300,
-		"common": 673
+		"ips": 1285,
+		"common": 670
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 12206,
-		"common": 4727
+		"ips": 12191,
+		"common": 4726
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3562,
+		"ips": 3563,
 		"common": 1473
 	},
 	{
@@ -1562,13 +1568,13 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 618,
+		"ips": 613,
 		"common": 19
 	},
 	{
 		"name": "sslproxies_30d",
 		"category": "anonymizers",
-		"ips": 12538,
+		"ips": 12527,
 		"common": 122
 	},
 	{
