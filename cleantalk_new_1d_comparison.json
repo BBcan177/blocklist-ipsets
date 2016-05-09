@@ -81,7 +81,7 @@
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 11312,
-		"common": 60
+		"common": 59
 	},
 	{
 		"name": "blueliv_crimeserver_last_30d",
@@ -230,7 +230,7 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 302021,
+		"ips": 302018,
 		"common": 10
 	},
 	{
@@ -351,7 +351,7 @@
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9568363,
-		"common": 213
+		"common": 212
 	},
 	{
 		"name": "firehol_proxies",
@@ -948,21 +948,27 @@
 		"common": 4
 	},
 	{
+		"name": "xroxy",
+		"category": "anonymizers",
+		"ips": 62,
+		"common": 1
+	},
+	{
 		"name": "xroxy_1d",
 		"category": "anonymizers",
-		"ips": 141,
-		"common": 1
+		"ips": 144,
+		"common": 2
 	},
 	{
 		"name": "xroxy_30d",
 		"category": "anonymizers",
-		"ips": 567,
-		"common": 2
+		"ips": 570,
+		"common": 3
 	},
 	{
 		"name": "xroxy_7d",
 		"category": "anonymizers",
-		"ips": 284,
-		"common": 2
+		"ips": 287,
+		"common": 3
 	}
 ]
