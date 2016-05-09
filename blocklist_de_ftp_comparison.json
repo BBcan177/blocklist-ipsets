@@ -3,13 +3,13 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 9796,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "bds_atif",
 		"category": "reputation",
 		"ips": 19260,
-		"common": 8
+		"common": 9
 	},
 	{
 		"name": "bi_any_2_1d",
@@ -39,25 +39,25 @@
 		"name": "bi_mail_2_30d",
 		"category": "attacks",
 		"ips": 1526,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 4561,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18486,
-		"common": 332
+		"ips": 18474,
+		"common": 330
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
 		"ips": 11647,
-		"common": 156
+		"common": 157
 	},
 	{
 		"name": "blueliv_crimeserver_online",
@@ -72,6 +72,12 @@
 		"common": 1
 	},
 	{
+		"name": "bruteforceblocker",
+		"category": "attacks",
+		"ips": 1079,
+		"common": 1
+	},
+	{
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 902,
@@ -80,8 +86,8 @@
 	{
 		"name": "cleantalk",
 		"category": "abuse",
-		"ips": 4084,
-		"common": 38
+		"ips": 4074,
+		"common": 39
 	},
 	{
 		"name": "cleantalk_1d",
@@ -92,38 +98,38 @@
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 199293,
-		"common": 200
+		"ips": 199283,
+		"common": 199
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 89080,
-		"common": 177
+		"ips": 89050,
+		"common": 176
 	},
 	{
 		"name": "cleantalk_new",
 		"category": "abuse",
-		"ips": 2127,
-		"common": 34
+		"ips": 2121,
+		"common": 35
 	},
 	{
 		"name": "cleantalk_new_1d",
 		"category": "abuse",
-		"ips": 4443,
-		"common": 63
+		"ips": 4439,
+		"common": 62
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 88740,
-		"common": 121
+		"ips": 88731,
+		"common": 120
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 22241,
-		"common": 99
+		"ips": 22214,
+		"common": 98
 	},
 	{
 		"name": "cleantalk_updated",
@@ -134,20 +140,20 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 38754,
-		"common": 105
+		"ips": 38767,
+		"common": 104
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 213564,
-		"common": 186
+		"ips": 213544,
+		"common": 184
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 94480,
-		"common": 166
+		"ips": 94460,
+		"common": 164
 	},
 	{
 		"name": "cta_cryptowall",
@@ -171,7 +177,7 @@
 		"name": "dragon_sshpauth",
 		"category": "attacks",
 		"ips": 484,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dshield_1d",
@@ -183,25 +189,25 @@
 		"name": "dshield_30d",
 		"category": "attacks",
 		"ips": 1941760,
-		"common": 64
+		"common": 66
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
 		"ips": 474880,
-		"common": 27
+		"common": 29
 	},
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 43860,
+		"ips": 43867,
 		"common": 138
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 375913,
-		"common": 214
+		"ips": 375899,
+		"common": 213
 	},
 	{
 		"name": "firehol_level1",
@@ -212,20 +218,20 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 131225,
-		"common": 332
+		"ips": 131214,
+		"common": 330
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2035764,
-		"common": 71
+		"ips": 2032693,
+		"common": 73
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9568575,
-		"common": 158
+		"common": 160
 	},
 	{
 		"name": "firehol_webserver",
@@ -243,7 +249,13 @@
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 2102,
-		"common": 119
+		"common": 118
+	},
+	{
+		"name": "haley_ssh",
+		"category": "attacks",
+		"ips": 21089,
+		"common": 1
 	},
 	{
 		"name": "hphosts_emd",
@@ -261,7 +273,7 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "iblocklist_ciarmy_malicious",
@@ -411,7 +423,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373486417,
-		"common": 16
+		"common": 14
 	},
 	{
 		"name": "sorbs_noserver",
@@ -495,7 +507,7 @@
 		"name": "taichung",
 		"category": "attacks",
 		"ips": 9018,
-		"common": 3
+		"common": 4
 	},
 	{
 		"name": "trustedsec_atif",
@@ -507,6 +519,6 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 14620,
-		"common": 30
+		"common": 31
 	}
 ]
