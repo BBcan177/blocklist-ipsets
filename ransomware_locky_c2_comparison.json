@@ -39,7 +39,7 @@
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 55627,
-		"common": 12
+		"common": 13
 	},
 	{
 		"name": "bm_tor",
@@ -52,6 +52,12 @@
 		"category": "attacks",
 		"ips": 267,
 		"common": 4
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 6478,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_30d",
@@ -146,26 +152,26 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668996218,
-		"common": 113
+		"ips": 668996219,
+		"common": 114
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2034951,
+		"ips": 2034959,
 		"common": 18
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9568380,
-		"common": 10
+		"common": 11
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45774944,
-		"common": 17
+		"common": 18
 	},
 	{
 		"name": "gofferje_sip",
@@ -174,10 +180,16 @@
 		"common": 3
 	},
 	{
+		"name": "hphosts_ats",
+		"category": "organizations",
+		"ips": 16345,
+		"common": 1
+	},
+	{
 		"name": "hphosts_emd",
 		"category": "malware",
 		"ips": 17900,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -231,7 +243,7 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 42
+		"common": 43
 	},
 	{
 		"name": "malwaredomainlist",
@@ -254,14 +266,14 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 607,
-		"common": 113
+		"ips": 606,
+		"common": 114
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 5481,
-		"common": 113
+		"ips": 5482,
+		"common": 114
 	},
 	{
 		"name": "shunlist",
@@ -332,13 +344,13 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 42054,
+		"ips": 41828,
 		"common": 7
 	},
 	{
 		"name": "threatcrowd",
 		"category": "malware",
 		"ips": 2594,
-		"common": 23
+		"common": 24
 	}
 ]
