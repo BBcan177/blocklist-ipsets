@@ -38,8 +38,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1001,
-		"common": 363
+		"ips": 1006,
+		"common": 365
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11712,
+		"ips": 11805,
 		"common": 83
 	},
 	{
@@ -368,7 +368,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 93749,
+		"ips": 93802,
 		"common": 2
 	},
 	{
@@ -392,7 +392,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568729,
+		"ips": 9568823,
 		"common": 365
 	},
 	{
@@ -712,6 +712,12 @@
 		"category": "attacks",
 		"ips": 500,
 		"common": 33
+	},
+	{
+		"name": "snort_ipfilter",
+		"category": "attacks",
+		"ips": 44090,
+		"common": 1
 	},
 	{
 		"name": "socks_proxy_30d",

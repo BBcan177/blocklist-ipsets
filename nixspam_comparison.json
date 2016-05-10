@@ -14,8 +14,8 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1001,
-		"common": 29
+		"ips": 1006,
+		"common": 30
 	},
 	{
 		"name": "bi_any_2_30d",
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11712,
+		"ips": 11805,
 		"common": 39
 	},
 	{
@@ -272,7 +272,7 @@
 	{
 		"name": "dm_tor",
 		"category": "anonymizers",
-		"ips": 6925,
+		"ips": 6923,
 		"common": 5
 	},
 	{
@@ -398,7 +398,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 93749,
+		"ips": 93802,
 		"common": 393
 	},
 	{
@@ -422,7 +422,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568729,
+		"ips": 9568823,
 		"common": 136
 	},
 	{
@@ -948,21 +948,27 @@
 		"common": 49
 	},
 	{
+		"name": "proxz",
+		"category": "anonymizers",
+		"ips": 23,
+		"common": 1
+	},
+	{
 		"name": "proxz_1d",
 		"category": "anonymizers",
-		"ips": 222,
+		"ips": 214,
 		"common": 6
 	},
 	{
 		"name": "proxz_30d",
 		"category": "anonymizers",
-		"ips": 2417,
+		"ips": 2419,
 		"common": 36
 	},
 	{
 		"name": "proxz_7d",
 		"category": "anonymizers",
-		"ips": 921,
+		"ips": 918,
 		"common": 18
 	},
 	{
@@ -974,7 +980,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 633,
+		"ips": 644,
 		"common": 1
 	},
 	{
@@ -1058,8 +1064,8 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 43783,
-		"common": 1015
+		"ips": 44090,
+		"common": 1099
 	},
 	{
 		"name": "socks_proxy",
