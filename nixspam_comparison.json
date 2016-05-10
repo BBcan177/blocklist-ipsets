@@ -116,7 +116,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11980,
+		"ips": 11975,
 		"common": 74
 	},
 	{
@@ -372,21 +372,27 @@
 		"common": 44
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 131328,
-		"common": 16
+		"ips": 130816,
+		"common": 17
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1931776,
+		"ips": 1932032,
 		"common": 330
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 510720,
+		"ips": 510208,
 		"common": 59
 	},
 	{
@@ -458,20 +464,20 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 94110,
-		"common": 825
+		"ips": 94112,
+		"common": 826
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668945743,
-		"common": 35
+		"ips": 668945742,
+		"common": 36
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 152581,
-		"common": 1388
+		"ips": 152067,
+		"common": 1389
 	},
 	{
 		"name": "firehol_level3",
@@ -482,14 +488,14 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569186,
+		"ips": 9569181,
 		"common": 249
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 36883,
-		"common": 819
+		"ips": 36885,
+		"common": 820
 	},
 	{
 		"name": "firehol_webserver",
@@ -1137,25 +1143,25 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 34
+		"common": 31
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
 		"ips": 1295,
-		"common": 444
+		"common": 446
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 12050,
-		"common": 620
+		"ips": 12052,
+		"common": 621
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3552,
-		"common": 570
+		"ips": 3554,
+		"common": 571
 	},
 	{
 		"name": "sorbs_anonymizers",
@@ -1226,7 +1232,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 687,
+		"ips": 686,
 		"common": 25
 	},
 	{

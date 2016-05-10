@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11980,
+		"ips": 11975,
 		"common": 96
 	},
 	{
@@ -354,21 +354,27 @@
 		"common": 1
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 1
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 131328,
+		"ips": 130816,
 		"common": 25
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1931776,
+		"ips": 1932032,
 		"common": 136
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 510720,
+		"ips": 510208,
 		"common": 64
 	},
 	{
@@ -548,19 +554,19 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 94110,
+		"ips": 94112,
 		"common": 6
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668945743,
+		"ips": 668945742,
 		"common": 41
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 152581,
+		"ips": 152067,
 		"common": 39
 	},
 	{
@@ -572,7 +578,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569186,
+		"ips": 9569181,
 		"common": 6654
 	},
 	{
@@ -933,13 +939,13 @@
 		"name": "ransomware_rw",
 		"category": "malware",
 		"ips": 5690,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
 		"category": "malware",
 		"ips": 5577,
-		"common": 2
+		"common": 1
 	},
 	{
 		"name": "sblam",
