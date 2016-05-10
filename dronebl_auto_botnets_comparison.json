@@ -182,7 +182,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12006,
+		"ips": 12005,
 		"common": 92
 	},
 	{
@@ -453,24 +453,24 @@
 		"name": "dshield",
 		"category": "attacks",
 		"ips": 5120,
-		"common": 2
+		"common": 3
 	},
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 132352,
+		"ips": 130816,
 		"common": 73
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1937920,
-		"common": 1018
+		"ips": 1935360,
+		"common": 1016
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 508928,
+		"ips": 508672,
 		"common": 290
 	},
 	{
@@ -674,19 +674,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 153447,
+		"ips": 151911,
 		"common": 498
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2031917,
-		"common": 1272
+		"ips": 2026606,
+		"common": 1268
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569414,
+		"ips": 9569413,
 		"common": 1175
 	},
 	{
@@ -699,7 +699,7 @@
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45774778,
-		"common": 9130
+		"common": 9129
 	},
 	{
 		"name": "fullbogons",
@@ -1113,7 +1113,7 @@
 		"name": "openbl_1d",
 		"category": "attacks",
 		"ips": 120,
-		"common": 7
+		"common": 6
 	},
 	{
 		"name": "openbl_30d",
@@ -1377,7 +1377,7 @@
 		"name": "pushing_inertia_blocklist",
 		"category": "reputation",
 		"ips": 45568136,
-		"common": 9029
+		"common": 9028
 	},
 	{
 		"name": "ransomware_feed",
@@ -1394,7 +1394,7 @@
 	{
 		"name": "ransomware_teslacrypt_ps",
 		"category": "malware",
-		"ips": 5576,
+		"ips": 5581,
 		"common": 3
 	},
 	{
@@ -1466,8 +1466,8 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 42485,
-		"common": 61
+		"ips": 43783,
+		"common": 63
 	},
 	{
 		"name": "socks_proxy",

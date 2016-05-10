@@ -164,8 +164,8 @@
 	{
 		"name": "bambenek_ramnit",
 		"category": "malware",
-		"ips": 7,
-		"common": 5
+		"ips": 6,
+		"common": 4
 	},
 	{
 		"name": "bambenek_simda",
@@ -362,7 +362,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12006,
+		"ips": 12005,
 		"common": 3223
 	},
 	{
@@ -632,8 +632,8 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 302018,
-		"common": 9130
+		"ips": 302017,
+		"common": 9129
 	},
 	{
 		"name": "dronebl_autorooting_worms",
@@ -678,21 +678,27 @@
 		"common": 1590
 	},
 	{
+		"name": "dshield",
+		"category": "attacks",
+		"ips": 5120,
+		"common": 256
+	},
+	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 132352,
+		"ips": 130816,
 		"common": 8236
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1937920,
-		"common": 78080
+		"ips": 1935360,
+		"common": 78079
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 508928,
+		"ips": 508672,
 		"common": 27261
 	},
 	{
@@ -932,19 +938,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 153447,
+		"ips": 151911,
 		"common": 13196
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2031917,
-		"common": 90166
+		"ips": 2026606,
+		"common": 90156
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569414,
+		"ips": 9569413,
 		"common": 56650
 	},
 	{
@@ -1479,7 +1485,7 @@
 		"name": "openbl_1d",
 		"category": "attacks",
 		"ips": 120,
-		"common": 15
+		"common": 14
 	},
 	{
 		"name": "openbl_30d",
@@ -1778,7 +1784,7 @@
 	{
 		"name": "ransomware_teslacrypt_ps",
 		"category": "malware",
-		"ips": 5576,
+		"ips": 5581,
 		"common": 20
 	},
 	{
@@ -1862,8 +1868,8 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 42485,
-		"common": 704
+		"ips": 43783,
+		"common": 703
 	},
 	{
 		"name": "socks_proxy",
