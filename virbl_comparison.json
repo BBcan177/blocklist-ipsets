@@ -9,19 +9,19 @@
 		"name": "blocklist_de",
 		"category": "attacks",
 		"ips": 19515,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
 		"ips": 14983,
-		"common": 4
+		"common": 3
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 151044,
-		"common": 28
+		"ips": 151046,
+		"common": 29
 	},
 	{
 		"name": "firehol_webserver",
@@ -39,12 +39,6 @@
 		"name": "iblocklist_bogons",
 		"category": "unroutable",
 		"ips": 666661539,
-		"common": 1
-	},
-	{
-		"name": "iblocklist_edu",
-		"category": "organizations",
-		"ips": 227983904,
 		"common": 1
 	},
 	{
@@ -93,7 +87,7 @@
 		"name": "nixspam",
 		"category": "spam",
 		"ips": 38558,
-		"common": 3
+		"common": 2
 	},
 	{
 		"name": "nullsecure",
@@ -136,6 +130,12 @@
 		"category": "reputation",
 		"ips": 45568136,
 		"common": 3
+	},
+	{
+		"name": "sorbs_anonymizers",
+		"category": "spam",
+		"ips": 600888,
+		"common": 1
 	},
 	{
 		"name": "sorbs_dul",
