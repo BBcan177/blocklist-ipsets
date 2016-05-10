@@ -24,6 +24,18 @@
 		"common": 1
 	},
 	{
+		"name": "blocklist_de",
+		"category": "attacks",
+		"ips": 19839,
+		"common": 1
+	},
+	{
+		"name": "blocklist_de_mail",
+		"category": "attacks",
+		"ips": 15203,
+		"common": 1
+	},
+	{
 		"name": "botscout_30d",
 		"category": "abuse",
 		"ips": 18875,
@@ -116,7 +128,7 @@
 	{
 		"name": "dronebl_dns_mx_on_irc",
 		"category": "reputation",
-		"ips": 2346,
+		"ips": 2347,
 		"common": 1
 	},
 	{
@@ -156,15 +168,21 @@
 		"common": 512
 	},
 	{
+		"name": "firehol_level2",
+		"category": "attacks",
+		"ips": 151796,
+		"common": 1
+	},
+	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2010098,
+		"ips": 2011578,
 		"common": 6
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568873,
+		"ips": 9568887,
 		"common": 27
 	},
 	{
@@ -296,8 +314,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 39874,
-		"common": 12
+		"ips": 39871,
+		"common": 11
 	},
 	{
 		"name": "nullsecure",
@@ -506,7 +524,7 @@
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 43775,
+		"ips": 43976,
 		"common": 6
 	},
 	{
