@@ -74,7 +74,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11922,
+		"ips": 12017,
 		"common": 39
 	},
 	{
@@ -212,7 +212,7 @@
 	{
 		"name": "dronebl_irc_drones",
 		"category": "abuse",
-		"ips": 13896,
+		"ips": 13903,
 		"common": 1
 	},
 	{
@@ -273,7 +273,7 @@
 		"name": "firehol_level1",
 		"category": "attacks",
 		"ips": 668945744,
-		"common": 20
+		"common": 21
 	},
 	{
 		"name": "firehol_level2",
@@ -290,7 +290,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568378,
+		"ips": 9568469,
 		"common": 130
 	},
 	{
@@ -512,7 +512,7 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 32786,
+		"ips": 32374,
 		"common": 3
 	},
 	{
@@ -542,7 +542,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 608,
+		"ips": 604,
 		"common": 12
 	},
 	{
@@ -675,6 +675,12 @@
 		"name": "zeus",
 		"category": "malware",
 		"ips": 164,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 137,
 		"common": 1
 	}
 ]
