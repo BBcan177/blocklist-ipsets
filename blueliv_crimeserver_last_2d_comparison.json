@@ -98,8 +98,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11831,
-		"common": 30
+		"ips": 11774,
+		"common": 29
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -320,8 +320,8 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668945481,
-		"common": 27
+		"ips": 668945483,
+		"common": 28
 	},
 	{
 		"name": "firehol_level2",
@@ -338,8 +338,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569033,
-		"common": 501
+		"ips": 9568965,
+		"common": 500
 	},
 	{
 		"name": "firehol_proxies",
@@ -933,6 +933,12 @@
 		"name": "zeus",
 		"category": "malware",
 		"ips": 164,
+		"common": 1
+	},
+	{
+		"name": "zeus_badips",
+		"category": "malware",
+		"ips": 138,
 		"common": 1
 	}
 ]
