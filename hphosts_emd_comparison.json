@@ -62,8 +62,8 @@
 	{
 		"name": "bambenek_ramnit",
 		"category": "malware",
-		"ips": 7,
-		"common": 4
+		"ips": 6,
+		"common": 3
 	},
 	{
 		"name": "bambenek_simda",
@@ -212,7 +212,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11760,
+		"ips": 11726,
 		"common": 137
 	},
 	{
@@ -320,31 +320,31 @@
 	{
 		"name": "cleantalk_1d",
 		"category": "abuse",
-		"ips": 37413,
+		"ips": 37445,
 		"common": 6
 	},
 	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 198977,
+		"ips": 198992,
 		"common": 62
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 88526,
+		"ips": 88569,
 		"common": 22
 	},
 	{
 		"name": "cleantalk_new_30d",
 		"category": "abuse",
-		"ips": 88440,
+		"ips": 88451,
 		"common": 8
 	},
 	{
 		"name": "cleantalk_new_7d",
 		"category": "abuse",
-		"ips": 22233,
+		"ips": 22248,
 		"common": 2
 	},
 	{
@@ -356,19 +356,19 @@
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 39977,
+		"ips": 40047,
 		"common": 6
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 213303,
+		"ips": 213311,
 		"common": 63
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 94122,
+		"ips": 94149,
 		"common": 22
 	},
 	{
@@ -614,13 +614,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 45218,
+		"ips": 45274,
 		"common": 8
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 375420,
+		"ips": 375437,
 		"common": 76
 	},
 	{
@@ -650,7 +650,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568891,
+		"ips": 9568860,
 		"common": 1140
 	},
 	{
@@ -1052,7 +1052,7 @@
 	{
 		"name": "malwaredomainlist",
 		"category": "malware",
-		"ips": 1427,
+		"ips": 1430,
 		"common": 246
 	},
 	{
@@ -1106,8 +1106,14 @@
 	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
-		"ips": 174,
+		"ips": 178,
 		"common": 6
+	},
+	{
+		"name": "packetmail_ramnode",
+		"category": "reputation",
+		"ips": 629,
+		"common": 1
 	},
 	{
 		"name": "palevo",

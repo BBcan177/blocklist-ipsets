@@ -38,7 +38,7 @@
 	{
 		"name": "bambenek_ramnit",
 		"category": "malware",
-		"ips": 7,
+		"ips": 6,
 		"common": 2
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11760,
+		"ips": 11726,
 		"common": 28
 	},
 	{
@@ -162,33 +162,45 @@
 		"common": 456
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 4168,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 198977,
+		"ips": 198992,
 		"common": 9
 	},
 	{
 		"name": "cleantalk_7d",
 		"category": "abuse",
-		"ips": 88526,
+		"ips": 88569,
 		"common": 3
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_1d",
 		"category": "abuse",
-		"ips": 39977,
+		"ips": 40047,
 		"common": 2
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 213303,
+		"ips": 213311,
 		"common": 11
 	},
 	{
 		"name": "cleantalk_updated_7d",
 		"category": "abuse",
-		"ips": 94122,
+		"ips": 94149,
 		"common": 5
 	},
 	{
@@ -302,13 +314,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 45218,
+		"ips": 45274,
 		"common": 2
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 375420,
+		"ips": 375437,
 		"common": 14
 	},
 	{
@@ -338,7 +350,7 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568891,
+		"ips": 9568860,
 		"common": 501
 	},
 	{
@@ -644,7 +656,7 @@
 	{
 		"name": "malwaredomainlist",
 		"category": "malware",
-		"ips": 1427,
+		"ips": 1430,
 		"common": 21
 	},
 	{
@@ -668,7 +680,7 @@
 	{
 		"name": "packetmail_emerging_ips",
 		"category": "reputation",
-		"ips": 174,
+		"ips": 178,
 		"common": 4
 	},
 	{
