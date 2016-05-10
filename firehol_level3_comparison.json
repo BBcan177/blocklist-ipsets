@@ -3,7 +3,7 @@
 		"name": "alienvault_reputation",
 		"category": "reputation",
 		"ips": 9771,
-		"common": 4587
+		"common": 4584
 	},
 	{
 		"name": "anonymous",
@@ -165,7 +165,7 @@
 		"name": "bi_any_2_30d",
 		"category": "attacks",
 		"ips": 6595,
-		"common": 2513
+		"common": 2512
 	},
 	{
 		"name": "bi_any_2_7d",
@@ -201,7 +201,7 @@
 		"name": "bi_ssh_2_30d",
 		"category": "attacks",
 		"ips": 4557,
-		"common": 2168
+		"common": 2167
 	},
 	{
 		"name": "bi_voip_2_30d",
@@ -579,7 +579,7 @@
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 232741,
-		"common": 1996
+		"common": 1998
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -632,20 +632,20 @@
 	{
 		"name": "dshield_1d",
 		"category": "attacks",
-		"ips": 129024,
-		"common": 129024
+		"ips": 127744,
+		"common": 127744
 	},
 	{
 		"name": "dshield_30d",
 		"category": "attacks",
-		"ips": 1922304,
-		"common": 1922304
+		"ips": 1921536,
+		"common": 1921536
 	},
 	{
 		"name": "dshield_7d",
 		"category": "attacks",
-		"ips": 520192,
-		"common": 520192
+		"ips": 519168,
+		"common": 519168
 	},
 	{
 		"name": "dshield_top_1000",
@@ -860,7 +860,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 93863,
+		"ips": 93864,
 		"common": 1842
 	},
 	{
@@ -872,19 +872,19 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 151046,
-		"common": 130263
+		"ips": 149768,
+		"common": 128985
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
 		"ips": 9568893,
-		"common": 4757
+		"common": 4756
 	},
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 36642,
+		"ips": 36643,
 		"common": 975
 	},
 	{
@@ -927,7 +927,7 @@
 		"name": "haley_ssh",
 		"category": "attacks",
 		"ips": 21102,
-		"common": 1153
+		"common": 1152
 	},
 	{
 		"name": "hphosts_ats",
@@ -1035,7 +1035,7 @@
 		"name": "iblocklist_ciarmy_malicious",
 		"category": "reputation",
 		"ips": 861,
-		"common": 790
+		"common": 789
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
@@ -1059,7 +1059,7 @@
 		"name": "iblocklist_edu",
 		"category": "organizations",
 		"ips": 227983904,
-		"common": 22415
+		"common": 22519
 	},
 	{
 		"name": "iblocklist_exclusions",
@@ -1149,7 +1149,7 @@
 		"name": "iblocklist_level1",
 		"category": "reputation",
 		"ips": 762822833,
-		"common": 43949
+		"common": 43957
 	},
 	{
 		"name": "iblocklist_level2",
@@ -1280,8 +1280,8 @@
 	{
 		"name": "iw_spamlist",
 		"category": "spam",
-		"ips": 2688,
-		"common": 202
+		"ips": 2663,
+		"common": 200
 	},
 	{
 		"name": "jigsaw_attacks",
@@ -1293,13 +1293,13 @@
 		"name": "jigsaw_malware",
 		"category": "malware",
 		"ips": 59614,
-		"common": 4689
+		"common": 4688
 	},
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
 		"ips": 1515713,
-		"common": 27786
+		"common": 27785
 	},
 	{
 		"name": "malc0de",
@@ -1743,24 +1743,24 @@
 		"name": "socks_proxy",
 		"category": "anonymizers",
 		"ips": 80,
-		"common": 2
+		"common": 7
 	},
 	{
 		"name": "socks_proxy_1d",
 		"category": "anonymizers",
-		"ips": 1199,
+		"ips": 1203,
 		"common": 73
 	},
 	{
 		"name": "socks_proxy_30d",
 		"category": "anonymizers",
-		"ips": 11902,
+		"ips": 11903,
 		"common": 338
 	},
 	{
 		"name": "socks_proxy_7d",
 		"category": "anonymizers",
-		"ips": 3563,
+		"ips": 3547,
 		"common": 166
 	},
 	{
@@ -1773,7 +1773,7 @@
 		"name": "sorbs_dul",
 		"category": "spam",
 		"ips": 373480296,
-		"common": 213946
+		"common": 214202
 	},
 	{
 		"name": "sorbs_new_spam",
@@ -1815,7 +1815,7 @@
 		"name": "sp_anti_infringement",
 		"category": "organizations",
 		"ips": 136187263,
-		"common": 341177
+		"common": 340665
 	},
 	{
 		"name": "sp_atma",
@@ -1862,7 +1862,7 @@
 	{
 		"name": "sslproxies_1d",
 		"category": "anonymizers",
-		"ips": 522,
+		"ips": 510,
 		"common": 10
 	},
 	{
@@ -1977,7 +1977,7 @@
 		"name": "turris_greylist",
 		"category": "reputation",
 		"ips": 14620,
-		"common": 3681
+		"common": 3680
 	},
 	{
 		"name": "urlvir",
@@ -1989,7 +1989,7 @@
 		"name": "voipbl",
 		"category": "attacks",
 		"ips": 16226,
-		"common": 874
+		"common": 873
 	},
 	{
 		"name": "vxvault",
