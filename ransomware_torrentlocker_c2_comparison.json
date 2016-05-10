@@ -1,21 +1,33 @@
 [
 	{
+		"name": "firehol_level1",
+		"category": "attacks",
+		"ips": 668945484,
+		"common": 1
+	},
+	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2028401,
-		"common": 19
+		"ips": 2028655,
+		"common": 20
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569120,
+		"ips": 9569236,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
 		"ips": 45774722,
-		"common": 3
+		"common": 4
+	},
+	{
+		"name": "gofferje_sip",
+		"category": "attacks",
+		"ips": 1094909,
+		"common": 1
 	},
 	{
 		"name": "iblocklist_bogons",
@@ -48,15 +60,21 @@
 		"common": 3
 	},
 	{
+		"name": "sslbl",
+		"category": "malware",
+		"ips": 63,
+		"common": 1
+	},
+	{
 		"name": "sslbl_aggressive",
 		"category": "malware",
 		"ips": 1853,
-		"common": 19
+		"common": 20
 	},
 	{
 		"name": "stopforumspam_toxic",
 		"category": "abuse",
 		"ips": 552279,
-		"common": 1
+		"common": 2
 	}
 ]

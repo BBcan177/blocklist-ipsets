@@ -2,7 +2,13 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569120,
+		"ips": 9569236,
+		"common": 1
+	},
+	{
+		"name": "firehol_webserver",
+		"category": "attacks",
+		"ips": 45774722,
 		"common": 1
 	},
 	{
@@ -27,6 +33,12 @@
 		"name": "iblocklist_spyware",
 		"category": "reputation",
 		"ips": 339021,
+		"common": 1
+	},
+	{
+		"name": "pushing_inertia_blocklist",
+		"category": "reputation",
+		"ips": 45568136,
 		"common": 1
 	}
 ]
