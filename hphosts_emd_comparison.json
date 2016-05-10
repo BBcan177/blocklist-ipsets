@@ -74,8 +74,8 @@
 	{
 		"name": "bambenek_suppobox",
 		"category": "malware",
-		"ips": 47,
-		"common": 27
+		"ips": 64,
+		"common": 34
 	},
 	{
 		"name": "bambenek_tinba",
@@ -224,8 +224,8 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 12017,
-		"common": 141
+		"ips": 11934,
+		"common": 140
 	},
 	{
 		"name": "blueliv_crimeserver_last",
@@ -638,7 +638,7 @@
 	{
 		"name": "firehol_anonymous",
 		"category": "anonymizers",
-		"ips": 93917,
+		"ips": 93931,
 		"common": 21
 	},
 	{
@@ -668,7 +668,7 @@
 	{
 		"name": "firehol_proxies",
 		"category": "anonymizers",
-		"ips": 36843,
+		"ips": 36857,
 		"common": 5
 	},
 	{
@@ -1182,21 +1182,27 @@
 		"common": 3
 	},
 	{
+		"name": "proxyspy",
+		"category": "anonymizers",
+		"ips": 300,
+		"common": 1
+	},
+	{
 		"name": "proxyspy_1d",
 		"category": "anonymizers",
-		"ips": 1113,
+		"ips": 1075,
 		"common": 2
 	},
 	{
 		"name": "proxyspy_30d",
 		"category": "anonymizers",
-		"ips": 6761,
+		"ips": 6764,
 		"common": 3
 	},
 	{
 		"name": "proxyspy_7d",
 		"category": "anonymizers",
-		"ips": 3272,
+		"ips": 3268,
 		"common": 3
 	},
 	{
