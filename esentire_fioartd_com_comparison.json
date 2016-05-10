@@ -18,6 +18,12 @@
 		"common": 2
 	},
 	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 6878,
+		"common": 1
+	},
+	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
 		"ips": 232293,
@@ -176,7 +182,7 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668946016,
+		"ips": 668946014,
 		"common": 229
 	},
 	{
@@ -188,8 +194,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569283,
-		"common": 1
+		"ips": 9569414,
+		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
@@ -302,7 +308,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 606,
+		"ips": 607,
 		"common": 3
 	},
 	{
