@@ -164,13 +164,13 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 45020,
+		"ips": 45076,
 		"common": 15
 	},
 	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 375444,
+		"ips": 375472,
 		"common": 20
 	},
 	{
@@ -330,15 +330,27 @@
 		"common": 8
 	},
 	{
+		"name": "php_dictionary",
+		"category": "spam",
+		"ips": 50,
+		"common": 1
+	},
+	{
+		"name": "php_dictionary_1d",
+		"category": "spam",
+		"ips": 100,
+		"common": 1
+	},
+	{
 		"name": "php_dictionary_30d",
 		"category": "spam",
-		"ips": 1222,
+		"ips": 1262,
 		"common": 1
 	},
 	{
 		"name": "php_dictionary_7d",
 		"category": "spam",
-		"ips": 315,
+		"ips": 320,
 		"common": 1
 	},
 	{
@@ -392,19 +404,19 @@
 	{
 		"name": "sorbs_new_spam",
 		"category": "spam",
-		"ips": 42912,
+		"ips": 46163,
 		"common": 1
 	},
 	{
 		"name": "sorbs_recent_spam",
 		"category": "spam",
-		"ips": 953329,
+		"ips": 954784,
 		"common": 1
 	},
 	{
 		"name": "sorbs_web",
 		"category": "spam",
-		"ips": 5863294,
+		"ips": 5863300,
 		"common": 1
 	},
 	{
@@ -428,7 +440,7 @@
 	{
 		"name": "stopforumspam_1d",
 		"category": "abuse",
-		"ips": 4673,
+		"ips": 4707,
 		"common": 8
 	},
 	{
