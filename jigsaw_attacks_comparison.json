@@ -188,7 +188,7 @@
 	{
 		"name": "bitcoin_blockchain_info_1d",
 		"category": "organizations",
-		"ips": 361,
+		"ips": 360,
 		"common": 3
 	},
 	{
@@ -206,31 +206,31 @@
 	{
 		"name": "bitcoin_nodes",
 		"category": "organizations",
-		"ips": 5402,
+		"ips": 5391,
 		"common": 62
 	},
 	{
 		"name": "bitcoin_nodes_1d",
 		"category": "organizations",
-		"ips": 7276,
+		"ips": 7272,
 		"common": 65
 	},
 	{
 		"name": "bitcoin_nodes_30d",
 		"category": "organizations",
-		"ips": 29447,
+		"ips": 29444,
 		"common": 100
 	},
 	{
 		"name": "bitcoin_nodes_7d",
 		"category": "organizations",
-		"ips": 12914,
+		"ips": 12911,
 		"common": 77
 	},
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19442,
+		"ips": 19498,
 		"common": 273
 	},
 	{
@@ -242,7 +242,7 @@
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 2109,
+		"ips": 2125,
 		"common": 3
 	},
 	{
@@ -260,13 +260,13 @@
 	{
 		"name": "blocklist_de_imap",
 		"category": "attacks",
-		"ips": 841,
+		"ips": 847,
 		"common": 133
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14945,
+		"ips": 14977,
 		"common": 174
 	},
 	{
@@ -278,7 +278,7 @@
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1392,
+		"ips": 1400,
 		"common": 78
 	},
 	{
@@ -348,21 +348,27 @@
 		"common": 1
 	},
 	{
+		"name": "botscout",
+		"category": "abuse",
+		"ips": 47,
+		"common": 1
+	},
+	{
 		"name": "botscout_1d",
 		"category": "abuse",
 		"ips": 1266,
-		"common": 49
+		"common": 47
 	},
 	{
 		"name": "botscout_30d",
 		"category": "abuse",
-		"ips": 18863,
-		"common": 196
+		"ips": 18860,
+		"common": 195
 	},
 	{
 		"name": "botscout_7d",
 		"category": "abuse",
-		"ips": 6222,
+		"ips": 6224,
 		"common": 127
 	},
 	{
@@ -770,7 +776,7 @@
 	{
 		"name": "firehol_abusers_1d",
 		"category": "abuse",
-		"ips": 45401,
+		"ips": 45403,
 		"common": 188
 	},
 	{
@@ -788,13 +794,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668880203,
+		"ips": 668880208,
 		"common": 467
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 152764,
+		"ips": 152819,
 		"common": 686
 	},
 	{
@@ -806,8 +812,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568923,
-		"common": 1451
+		"ips": 9568921,
+		"common": 1450
 	},
 	{
 		"name": "firehol_proxies",
@@ -1514,13 +1520,13 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 5691,
+		"ips": 5697,
 		"common": 25
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
 		"category": "malware",
-		"ips": 5578,
+		"ips": 5584,
 		"common": 14
 	},
 	{
@@ -1808,7 +1814,7 @@
 	{
 		"name": "zeus_badips",
 		"category": "malware",
-		"ips": 136,
+		"ips": 135,
 		"common": 45
 	}
 ]
