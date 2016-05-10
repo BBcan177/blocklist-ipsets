@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1024,
+		"ips": 1033,
 		"common": 2
 	},
 	{
@@ -110,26 +110,26 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18781,
-		"common": 665
+		"ips": 18830,
+		"common": 668
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9554,
+		"ips": 9555,
 		"common": 4
 	},
 	{
 		"name": "blocklist_de_bots",
 		"category": "attacks",
-		"ips": 1921,
-		"common": 614
+		"ips": 1927,
+		"common": 615
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14449,
-		"common": 55
+		"ips": 14479,
+		"common": 56
 	},
 	{
 		"name": "blocklist_de_strongips",
@@ -140,7 +140,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11976,
+		"ips": 11970,
 		"common": 290
 	},
 	{
@@ -201,6 +201,12 @@
 		"name": "bruteforceblocker",
 		"category": "attacks",
 		"ips": 1086,
+		"common": 1
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 6694,
 		"common": 1
 	},
 	{
@@ -440,14 +446,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668946009,
+		"ips": 668946002,
 		"common": 124
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 155080,
-		"common": 684
+		"ips": 155128,
+		"common": 687
 	},
 	{
 		"name": "firehol_level3",
@@ -458,8 +464,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9566441,
-		"common": 1661
+		"ips": 9569201,
+		"common": 1662
 	},
 	{
 		"name": "firehol_proxies",
@@ -758,7 +764,7 @@
 	{
 		"name": "packetmail_mail",
 		"category": "reputation",
-		"ips": 105,
+		"ips": 107,
 		"common": 15
 	},
 	{

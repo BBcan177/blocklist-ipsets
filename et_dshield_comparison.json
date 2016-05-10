@@ -26,7 +26,7 @@
 	{
 		"name": "bi_any_2_1d",
 		"category": "attacks",
-		"ips": 1024,
+		"ips": 1033,
 		"common": 38
 	},
 	{
@@ -68,13 +68,13 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18781,
+		"ips": 18830,
 		"common": 34
 	},
 	{
 		"name": "blocklist_de_ssh",
 		"category": "attacks",
-		"ips": 1459,
+		"ips": 1463,
 		"common": 34
 	},
 	{
@@ -86,7 +86,7 @@
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11976,
+		"ips": 11970,
 		"common": 16
 	},
 	{
@@ -123,6 +123,12 @@
 		"name": "ciarmy",
 		"category": "reputation",
 		"ips": 828,
+		"common": 1
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 6694,
 		"common": 1
 	},
 	{
@@ -224,13 +230,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668946009,
+		"ips": 668946002,
 		"common": 256
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 155080,
+		"ips": 155128,
 		"common": 1027
 	},
 	{
@@ -242,8 +248,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9566441,
-		"common": 59
+		"ips": 9569201,
+		"common": 60
 	},
 	{
 		"name": "firehol_webserver",

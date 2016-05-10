@@ -30,6 +30,12 @@
 		"common": 2
 	},
 	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 6694,
+		"common": 1
+	},
+	{
 		"name": "cta_cryptowall",
 		"category": "malware",
 		"ips": 1360,
@@ -92,8 +98,14 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668946009,
+		"ips": 668946002,
 		"common": 2
+	},
+	{
+		"name": "firehol_level4",
+		"category": "attacks",
+		"ips": 9569201,
+		"common": 1
 	},
 	{
 		"name": "firehol_webserver",

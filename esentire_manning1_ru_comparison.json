@@ -26,19 +26,19 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 18781,
+		"ips": 18830,
 		"common": 3
 	},
 	{
 		"name": "blocklist_de_apache",
 		"category": "attacks",
-		"ips": 9554,
+		"ips": 9555,
 		"common": 1
 	},
 	{
 		"name": "blocklist_de_mail",
 		"category": "attacks",
-		"ips": 14449,
+		"ips": 14479,
 		"common": 3
 	},
 	{
@@ -70,6 +70,12 @@
 		"category": "unroutable",
 		"ips": 604845640,
 		"common": 3
+	},
+	{
+		"name": "cleanmx_viruses",
+		"category": "spam",
+		"ips": 6694,
+		"common": 1
 	},
 	{
 		"name": "cleantalk",
@@ -338,13 +344,13 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 668946009,
+		"ips": 668946002,
 		"common": 124
 	},
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 155080,
+		"ips": 155128,
 		"common": 4
 	},
 	{
@@ -356,8 +362,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9566441,
-		"common": 3
+		"ips": 9569201,
+		"common": 4
 	},
 	{
 		"name": "firehol_webserver",
@@ -512,13 +518,13 @@
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 5699,
+		"ips": 5692,
 		"common": 121
 	},
 	{
 		"name": "ransomware_teslacrypt_ps",
 		"category": "malware",
-		"ips": 5586,
+		"ips": 5579,
 		"common": 121
 	},
 	{
