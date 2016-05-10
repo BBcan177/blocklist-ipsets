@@ -62,8 +62,8 @@
 	{
 		"name": "cleanmx_phishing",
 		"category": "spam",
-		"ips": 3399,
-		"common": 10
+		"ips": 1648,
+		"common": 5
 	},
 	{
 		"name": "cleanmx_viruses",
@@ -72,16 +72,52 @@
 		"common": 13
 	},
 	{
+		"name": "cleantalk",
+		"category": "abuse",
+		"ips": 4106,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_1d",
+		"category": "abuse",
+		"ips": 37045,
+		"common": 1
+	},
+	{
 		"name": "cleantalk_30d",
 		"category": "abuse",
-		"ips": 199165,
-		"common": 2
+		"ips": 199160,
+		"common": 3
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 88645,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated",
+		"category": "abuse",
+		"ips": 2000,
+		"common": 1
+	},
+	{
+		"name": "cleantalk_updated_1d",
+		"category": "abuse",
+		"ips": 39755,
+		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
-		"ips": 213508,
-		"common": 2
+		"ips": 213515,
+		"common": 3
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 94370,
+		"common": 1
 	},
 	{
 		"name": "cta_cryptowall",
@@ -126,10 +162,16 @@
 		"common": 1
 	},
 	{
+		"name": "firehol_abusers_1d",
+		"category": "abuse",
+		"ips": 44615,
+		"common": 1
+	},
+	{
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
-		"ips": 375290,
-		"common": 2
+		"ips": 375302,
+		"common": 3
 	},
 	{
 		"name": "firehol_level1",
@@ -146,13 +188,13 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 2027121,
+		"ips": 2028401,
 		"common": 3
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9569124,
+		"ips": 9569120,
 		"common": 21
 	},
 	{
