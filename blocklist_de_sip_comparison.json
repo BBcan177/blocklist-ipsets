@@ -38,14 +38,14 @@
 	{
 		"name": "blocklist_de",
 		"category": "attacks",
-		"ips": 19839,
-		"common": 78
+		"ips": 19874,
+		"common": 79
 	},
 	{
 		"name": "blocklist_net_ua",
 		"category": "abuse",
-		"ips": 11881,
-		"common": 6
+		"ips": 11901,
+		"common": 7
 	},
 	{
 		"name": "ciarmy",
@@ -57,19 +57,31 @@
 		"name": "cleantalk_30d",
 		"category": "abuse",
 		"ips": 199117,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_7d",
+		"category": "abuse",
+		"ips": 88522,
 		"common": 1
 	},
 	{
 		"name": "cleantalk_updated_30d",
 		"category": "abuse",
 		"ips": 213136,
+		"common": 2
+	},
+	{
+		"name": "cleantalk_updated_7d",
+		"category": "abuse",
+		"ips": 93917,
 		"common": 1
 	},
 	{
 		"name": "cybercrime",
 		"category": "malware",
 		"ips": 6903,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "dronebl_auto_botnets",
@@ -111,7 +123,7 @@
 		"name": "firehol_abusers_30d",
 		"category": "abuse",
 		"ips": 374956,
-		"common": 1
+		"common": 2
 	},
 	{
 		"name": "firehol_level1",
@@ -122,8 +134,8 @@
 	{
 		"name": "firehol_level2",
 		"category": "attacks",
-		"ips": 153279,
-		"common": 79
+		"ips": 153315,
+		"common": 80
 	},
 	{
 		"name": "firehol_level3",
@@ -134,8 +146,8 @@
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9568941,
-		"common": 16
+		"ips": 9568960,
+		"common": 17
 	},
 	{
 		"name": "firehol_webserver",
@@ -147,13 +159,13 @@
 		"name": "gofferje_sip",
 		"category": "attacks",
 		"ips": 1094910,
-		"common": 26
+		"common": 27
 	},
 	{
 		"name": "greensnow",
 		"category": "attacks",
 		"ips": 4724,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "haley_ssh",
@@ -207,7 +219,7 @@
 		"name": "iblocklist_level3",
 		"category": "reputation",
 		"ips": 139039391,
-		"common": 5
+		"common": 6
 	},
 	{
 		"name": "iblocklist_pedophiles",
@@ -226,6 +238,12 @@
 		"category": "reputation",
 		"ips": 339021,
 		"common": 3
+	},
+	{
+		"name": "ipblacklistcloud_top",
+		"category": "abuse",
+		"ips": 200,
+		"common": 1
 	},
 	{
 		"name": "jigsaw_attacks",
